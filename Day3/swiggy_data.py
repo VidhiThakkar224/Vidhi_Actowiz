@@ -28,6 +28,8 @@
 # print(loaded_data)
 
 ################################## TASK ##################################
+# regex = pizza image_url 
+# ^https:\/\/media-assets.swiggy.com\/swiggy\/image\/upload\/[a-zA-Z0-9\-\,\_]+\/FOOD_CATALOG\/IMAGES\/CMS\/\d{4}\/\d{1,2}\/\d{1,2}\/[a-z0-9\_\-]+.(jpg_compressed|png|jpg|jpeg)$
 
 import json
 from rich import print
