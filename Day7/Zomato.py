@@ -18,9 +18,6 @@ with open('Day7/Zometo.json', "r", encoding='utf-8') as f:
         for cat in menu.get('categories'):
             categories.append(cat)
     print(categories)
-        
-
-
     restaurant_data.append(
         {
             "restaurant_id":data['page_info'].get("resId"),

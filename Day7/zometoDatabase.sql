@@ -1,16 +1,20 @@
-CREATE DATABASE zomato_db;
-USE zomato_db;
+SELECT * FROM menu_items;
 
-CREATE TABLE menu_items (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    restaurant_id VARCHAR(100),
-    restaurant_name VARCHAR(255),
+CREATE DATABASE IF NOT EXISTS zometo;
+USE zometo;
+
+DROP TABLE IF EXISTS zometo_restaurant_data;
+
+CREATE TABLE zometo_restaurant_data (
     category_name VARCHAR(255),
-    item_id VARCHAR(100),
+    item_id VARCHAR(255),
     item_name VARCHAR(255),
     item_description TEXT,
     item_price FLOAT,
     is_veg BOOLEAN
 );
 
-SELECT * FROM menu_items;
+select * from zometo_restaurant_data;
+drop table zometo.zometo_restaurent_data;
+
+SHOW TABLES;
