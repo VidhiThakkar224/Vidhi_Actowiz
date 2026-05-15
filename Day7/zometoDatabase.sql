@@ -1,5 +1,3 @@
-SELECT * FROM menu_items;
-
 CREATE DATABASE IF NOT EXISTS zometo;
 USE zometo;
 

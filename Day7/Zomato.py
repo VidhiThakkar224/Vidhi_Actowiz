@@ -1,3 +1,7 @@
+# Please find below attached JSON of Zomato Restaurant Page.
+# Download the JSON file into your workspace, load the JSON file into your program. Once loaded we are supposed to extract the relevant data from given JSON
+# https://www.zomato.com/ahmedabad/sahtain-ambli/order
+
 import json
 from rich import print
 

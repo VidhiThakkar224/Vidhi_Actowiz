@@ -1,5 +1,8 @@
+# Given this JSON of CocaCola from Instagram
+# We are required to collect the following information
 # username,ful name,imageurl,follwer,fooliwing,like & comments count,reel url,suggest accouts,post,profile pic photo
 # Table1 - profile, Table2 -post , Table3 -Related post 
+
 import json
 from idlelib.iomenu import encoding
 
@@ -20,6 +23,7 @@ with open("C:\\Python Training\\Day9\\coca_cola_instagram.json","r",encoding="ut
             "Followers_Count":jmespath.search("data.user.edge_followed_by.count",data),
             "Following_Count":jmespath.search("data.user.edge_follow.count",data),
             "Biography":jmespath.search("data.user.biography",data),
+            
             "BioLinks":[
                 {
                     "Bio_Title":jmespath.search("title",link),

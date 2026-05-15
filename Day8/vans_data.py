@@ -1,10 +1,13 @@
+# I have shared a Listing page JSON
+# Collect, Image URL, Product Link, Product Name, Price, Discount if any
+
 import json
 from idlelib.iomenu import encoding
 
 from rich import print
 import jmespath
 
-with open("vans.json","r",encoding="utf-8") as f:
+with open("C:\\Python Training\\Day8\\vans.json","r",encoding="utf-8") as f:
     data=json.load(f)
     res_data=[]
 

@@ -1,0 +1,5014 @@
+[
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Jaipur",
+                "date": "01-06-2026",
+                "departure": "05:20",
+                "arrival": "06:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "0:55:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6190"
+            },
+            {
+                "source": "Jaipur",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:05",
+                "arrival": "12:50",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2719"
+            }
+        ],
+        "base_price": 4716.0,
+        "tax_price": 1809.0,
+        "final_price": 6525.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Jaipur",
+                "date": "01-06-2026",
+                "departure": "11:55",
+                "arrival": "13:00",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1719"
+            },
+            {
+                "source": "Jaipur",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:30",
+                "arrival": "19:30",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9719"
+            }
+        ],
+        "base_price": 5032.0,
+        "tax_price": 1819.0,
+        "final_price": 6851.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Jaipur",
+                "date": "01-06-2026",
+                "departure": "07:20",
+                "arrival": "08:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "0:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1767"
+            },
+            {
+                "source": "Jaipur",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:30",
+                "arrival": "19:30",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9719"
+            }
+        ],
+        "base_price": 5032.0,
+        "tax_price": 1819.0,
+        "final_price": 6851.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhopal",
+                "date": "01-06-2026",
+                "departure": "15:00",
+                "arrival": "16:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2249"
+            }
+        ],
+        "base_price": 4908.0,
+        "tax_price": 1950.0,
+        "final_price": 6858.0
+    },
+    {
+        "data": [
+            {
+                "source": "Ghaziabad",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:00",
+                "arrival": "19:05",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:05:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5096"
+            }
+        ],
+        "base_price": 5231.0,
+        "tax_price": 1739.0,
+        "final_price": 6970.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "06:40",
+                "arrival": "08:00",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2114"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "10:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6468"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "07:30",
+                "arrival": "09:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2076"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:55",
+                "arrival": "12:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5078"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hirasar",
+                "date": "01-06-2026",
+                "departure": "05:40",
+                "arrival": "07:25",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6171"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "05:00",
+                "arrival": "06:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5119"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:05",
+                "arrival": "09:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5146"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "06:40",
+                "arrival": "08:00",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2114"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:55",
+                "arrival": "12:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5078"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "05:00",
+                "arrival": "06:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5119"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "10:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6468"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "21:50",
+                "arrival": "23:25",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2013"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "01:15",
+                "arrival": "02:55",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6205"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1613.0,
+        "final_price": 7009.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "09:50",
+                "arrival": "11:40",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI423"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:55",
+                "arrival": "17:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9597"
+            }
+        ],
+        "base_price": 5469.0,
+        "tax_price": 1841.0,
+        "final_price": 7310.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhopal",
+                "date": "01-06-2026",
+                "departure": "15:00",
+                "arrival": "16:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2249"
+            },
+            {
+                "source": "Bhopal",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:00",
+                "arrival": "19:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5132"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1744.0,
+        "final_price": 7140.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "21:25",
+                "arrival": "22:40",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6479"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "23:50",
+                "arrival": "02:15",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2058"
+            }
+        ],
+        "base_price": 5391.0,
+        "tax_price": 1823.0,
+        "final_price": 7214.0
+    },
+    {
+        "data": [],
+        "base_price": 5900.0,
+        "tax_price": 1597.0,
+        "final_price": 7497.0
+    },
+    {
+        "data": [],
+        "base_price": 5900.0,
+        "tax_price": 1597.0,
+        "final_price": 7497.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:00",
+                "arrival": "12:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:20:00",
+                "airline": "Akasa Air",
+                "cl": "ECONOMY",
+                "flight_no": "QP1110"
+            }
+        ],
+        "base_price": 6380.0,
+        "tax_price": 928.0,
+        "final_price": 7308.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:00",
+                "arrival": "18:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:20:00",
+                "airline": "Akasa Air",
+                "cl": "ECONOMY",
+                "flight_no": "QP1128"
+            }
+        ],
+        "base_price": 6380.0,
+        "tax_price": 928.0,
+        "final_price": 7308.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "06:50",
+                "arrival": "09:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:10:00",
+                "airline": "Akasa Air",
+                "cl": "ECONOMY",
+                "flight_no": "QP1831"
+            }
+        ],
+        "base_price": 6228.0,
+        "tax_price": 1150.0,
+        "final_price": 7378.0
+    },
+    {
+        "data": [
+            {
+                "source": "Ghaziabad",
+                "destination": "Varanasi",
+                "date": "01-06-2026",
+                "departure": "12:30",
+                "arrival": "13:45",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2571"
+            },
+            {
+                "source": "Varanasi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:35",
+                "arrival": "23:05",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5029"
+            }
+        ],
+        "base_price": 5396.0,
+        "tax_price": 1990.0,
+        "final_price": 7386.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "21:25",
+                "arrival": "00:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "-1 day, 2:40:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1082"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "09:10",
+                "arrival": "10:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:25:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2368"
+            }
+        ],
+        "base_price": 6080.0,
+        "tax_price": 1647.0,
+        "final_price": 7727.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:40",
+                "arrival": "11:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:25:00",
+                "airline": "Akasa Air",
+                "cl": "ECONOMY",
+                "flight_no": "QP1119"
+            }
+        ],
+        "base_price": 6616.0,
+        "tax_price": 938.0,
+        "final_price": 7554.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:55",
+                "arrival": "22:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:25:00",
+                "airline": "Akasa Air",
+                "cl": "ECONOMY",
+                "flight_no": "QP1826"
+            }
+        ],
+        "base_price": 6616.0,
+        "tax_price": 938.0,
+        "final_price": 7554.0
+    },
+    {
+        "data": [],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:45",
+                "arrival": "17:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6318"
+            }
+        ],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:00",
+                "arrival": "16:25",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6022"
+            }
+        ],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:30",
+                "arrival": "11:55",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6107"
+            }
+        ],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:00",
+                "arrival": "13:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6047"
+            }
+        ],
+        "base_price": 6049.0,
+        "tax_price": 1514.0,
+        "final_price": 7563.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:30",
+                "arrival": "10:45",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2678"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "11:15",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2963"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:30",
+                "arrival": "12:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2425"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:00",
+                "arrival": "23:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2981"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "07:30",
+                "arrival": "09:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2943"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:00",
+                "arrival": "12:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2995"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:00",
+                "arrival": "18:25",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1777"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:00",
+                "arrival": "19:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI441"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:30",
+                "arrival": "19:55",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1736"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:00",
+                "arrival": "20:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2955"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:30",
+                "arrival": "21:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2985"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:00",
+                "arrival": "22:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2805"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:00",
+                "arrival": "00:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2999"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:30",
+                "arrival": "00:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2437"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "23:00",
+                "arrival": "01:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2439"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:30",
+                "arrival": "12:00",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2927"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:30",
+                "arrival": "18:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "3:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2592"
+            }
+        ],
+        "base_price": 6224.0,
+        "tax_price": 1544.0,
+        "final_price": 7768.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "06:00",
+                "arrival": "08:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:05:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1463"
+            }
+        ],
+        "base_price": 6030.0,
+        "tax_price": 1769.0,
+        "final_price": 7799.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:25",
+                "arrival": "20:50",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:25:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1005"
+            }
+        ],
+        "base_price": 6030.0,
+        "tax_price": 1769.0,
+        "final_price": 7799.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Jaipur",
+                "date": "01-06-2026",
+                "departure": "11:55",
+                "arrival": "13:00",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1719"
+            },
+            {
+                "source": "Jaipur",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "10:10",
+                "arrival": "12:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9717"
+            }
+        ],
+        "base_price": 6080.0,
+        "tax_price": 1871.0,
+        "final_price": 7951.0
+    },
+    {
+        "data": [],
+        "base_price": 6249.0,
+        "tax_price": 1524.0,
+        "final_price": 7773.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:45",
+                "arrival": "01:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6114"
+            }
+        ],
+        "base_price": 6249.0,
+        "tax_price": 1524.0,
+        "final_price": 7773.0
+    },
+    {
+        "data": [],
+        "base_price": 6249.0,
+        "tax_price": 1524.0,
+        "final_price": 7773.0
+    },
+    {
+        "data": [],
+        "base_price": 6249.0,
+        "tax_price": 1524.0,
+        "final_price": 7773.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:00",
+                "arrival": "14:10",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:10:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6676"
+            }
+        ],
+        "base_price": 6249.0,
+        "tax_price": 1524.0,
+        "final_price": 7773.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:30",
+                "arrival": "18:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2941"
+            }
+        ],
+        "base_price": 6424.0,
+        "tax_price": 1554.0,
+        "final_price": 7978.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:00",
+                "arrival": "21:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2977"
+            }
+        ],
+        "base_price": 6424.0,
+        "tax_price": 1554.0,
+        "final_price": 7978.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:30",
+                "arrival": "23:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2433"
+            }
+        ],
+        "base_price": 6424.0,
+        "tax_price": 1554.0,
+        "final_price": 7978.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:30",
+                "arrival": "23:00",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2957"
+            }
+        ],
+        "base_price": 6424.0,
+        "tax_price": 1554.0,
+        "final_price": 7978.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:30",
+                "arrival": "19:50",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:20:00",
+                "airline": "Akasa Air",
+                "cl": "ECONOMY",
+                "flight_no": "QP1820"
+            }
+        ],
+        "base_price": 6862.0,
+        "tax_price": 952.0,
+        "final_price": 7814.0
+    },
+    {
+        "data": [],
+        "base_price": 6335.0,
+        "tax_price": 1529.0,
+        "final_price": 7864.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:15",
+                "arrival": "12:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6328"
+            }
+        ],
+        "base_price": 6335.0,
+        "tax_price": 1529.0,
+        "final_price": 7864.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "09:50",
+                "arrival": "11:40",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI423"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:55",
+                "arrival": "16:35",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2504"
+            }
+        ],
+        "base_price": 6218.0,
+        "tax_price": 1878.0,
+        "final_price": 8096.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "09:50",
+                "arrival": "11:40",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI423"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:00",
+                "arrival": "22:40",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2494"
+            }
+        ],
+        "base_price": 6218.0,
+        "tax_price": 1878.0,
+        "final_price": 8096.0
+    },
+    {
+        "data": [
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:05",
+                "arrival": "23:30",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5203"
+            }
+        ],
+        "base_price": 5931.0,
+        "tax_price": 1981.0,
+        "final_price": 7912.0
+    },
+    {
+        "data": [
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "03:00",
+                "arrival": "04:30",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5143"
+            }
+        ],
+        "base_price": 5931.0,
+        "tax_price": 1981.0,
+        "final_price": 7912.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "07:10",
+                "arrival": "08:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2959"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:55",
+                "arrival": "17:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9597"
+            }
+        ],
+        "base_price": 6256.0,
+        "tax_price": 1880.0,
+        "final_price": 8136.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "07:05",
+                "arrival": "09:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:00:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6470"
+            }
+        ],
+        "base_price": 6192.0,
+        "tax_price": 1752.0,
+        "final_price": 7944.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "05:55",
+                "arrival": "07:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI817"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:00",
+                "arrival": "13:40",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2848"
+            }
+        ],
+        "base_price": 6293.0,
+        "tax_price": 1882.0,
+        "final_price": 8175.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "05:55",
+                "arrival": "07:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI817"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:55",
+                "arrival": "16:35",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2504"
+            }
+        ],
+        "base_price": 6293.0,
+        "tax_price": 1882.0,
+        "final_price": 8175.0
+    },
+    {
+        "data": [],
+        "base_price": 6449.0,
+        "tax_price": 1534.0,
+        "final_price": 7983.0
+    },
+    {
+        "data": [],
+        "base_price": 6449.0,
+        "tax_price": 1534.0,
+        "final_price": 7983.0
+    },
+    {
+        "data": [],
+        "base_price": 6449.0,
+        "tax_price": 1534.0,
+        "final_price": 7983.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:30",
+                "arrival": "17:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2933"
+            }
+        ],
+        "base_price": 6624.0,
+        "tax_price": 1564.0,
+        "final_price": 8188.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:35",
+                "arrival": "19:40",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:05:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1038"
+            }
+        ],
+        "base_price": 6424.0,
+        "tax_price": 1789.0,
+        "final_price": 8213.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:00",
+                "arrival": "13:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2945"
+            }
+        ],
+        "base_price": 6746.0,
+        "tax_price": 1570.0,
+        "final_price": 8316.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "06:05",
+                "arrival": "08:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6218"
+            }
+        ],
+        "base_price": 6621.0,
+        "tax_price": 1543.0,
+        "final_price": 8164.0
+    },
+    {
+        "data": [],
+        "base_price": 6621.0,
+        "tax_price": 1543.0,
+        "final_price": 8164.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "07:15",
+                "arrival": "09:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6814"
+            }
+        ],
+        "base_price": 6621.0,
+        "tax_price": 1543.0,
+        "final_price": 8164.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "05:55",
+                "arrival": "07:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI817"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:55",
+                "arrival": "17:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9597"
+            }
+        ],
+        "base_price": 6483.0,
+        "tax_price": 1891.0,
+        "final_price": 8374.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:10",
+                "arrival": "20:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1056"
+            }
+        ],
+        "base_price": 6896.0,
+        "tax_price": 1583.0,
+        "final_price": 8479.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "23:25",
+                "arrival": "01:50",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:25:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1235"
+            }
+        ],
+        "base_price": 6896.0,
+        "tax_price": 1583.0,
+        "final_price": 8479.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "07:10",
+                "arrival": "08:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2959"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:00",
+                "arrival": "13:40",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2848"
+            }
+        ],
+        "base_price": 6744.0,
+        "tax_price": 1905.0,
+        "final_price": 8649.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "07:10",
+                "arrival": "08:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2959"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:55",
+                "arrival": "16:35",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2504"
+            }
+        ],
+        "base_price": 6744.0,
+        "tax_price": 1905.0,
+        "final_price": 8649.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "18:40",
+                "arrival": "21:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1049"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:35",
+                "arrival": "00:05",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 1:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1209"
+            }
+        ],
+        "base_price": 7026.0,
+        "tax_price": 1693.0,
+        "final_price": 8719.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "18:40",
+                "arrival": "21:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1049"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "09:10",
+                "arrival": "10:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:25:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2368"
+            }
+        ],
+        "base_price": 7026.0,
+        "tax_price": 1693.0,
+        "final_price": 8719.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "06:30",
+                "arrival": "08:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2975"
+            }
+        ],
+        "base_price": 7245.0,
+        "tax_price": 1595.0,
+        "final_price": 8840.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "07:00",
+                "arrival": "09:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2429"
+            }
+        ],
+        "base_price": 7245.0,
+        "tax_price": 1595.0,
+        "final_price": 8840.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "11:50",
+                "arrival": "13:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1617"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:05",
+                "arrival": "23:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2403"
+            }
+        ],
+        "base_price": 7263.0,
+        "tax_price": 1705.0,
+        "final_price": 8968.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "23:25",
+                "arrival": "00:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "-1 day, 1:10:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1392"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "08:50",
+                "arrival": "11:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1027"
+            }
+        ],
+        "base_price": 7263.0,
+        "tax_price": 1705.0,
+        "final_price": 8968.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "05:00",
+                "arrival": "06:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5119"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:55",
+                "arrival": "10:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:05:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2046"
+            }
+        ],
+        "base_price": 6976.0,
+        "tax_price": 1922.0,
+        "final_price": 8898.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "18:35",
+                "arrival": "19:45",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:10:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1710"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:05",
+                "arrival": "23:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9754"
+            }
+        ],
+        "base_price": 7102.0,
+        "tax_price": 2080.0,
+        "final_price": 9182.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "13:55",
+                "arrival": "15:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1717"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:05",
+                "arrival": "23:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9754"
+            }
+        ],
+        "base_price": 7102.0,
+        "tax_price": 2080.0,
+        "final_price": 9182.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "05:30",
+                "arrival": "07:55",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1745"
+            }
+        ],
+        "base_price": 7700.0,
+        "tax_price": 1617.0,
+        "final_price": 9317.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "12:20",
+                "arrival": "13:55",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2331"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:10",
+                "arrival": "20:40",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E7018"
+            }
+        ],
+        "base_price": 7236.0,
+        "tax_price": 1935.0,
+        "final_price": 9171.0
+    },
+    {
+        "data": [
+            {
+                "source": "Ahmedabad",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:10",
+                "arrival": "20:40",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E7018"
+            }
+        ],
+        "base_price": 7236.0,
+        "tax_price": 1935.0,
+        "final_price": 9171.0
+    },
+    {
+        "data": [
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "06:30",
+                "arrival": "07:55",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6196"
+            }
+        ],
+        "base_price": 7168.0,
+        "tax_price": 2043.0,
+        "final_price": 9211.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "11:40",
+                "arrival": "13:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2715"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:55",
+                "arrival": "17:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9597"
+            }
+        ],
+        "base_price": 7500.0,
+        "tax_price": 1942.0,
+        "final_price": 9442.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "06:10",
+                "arrival": "07:25",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1165"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:50",
+                "arrival": "11:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1027"
+            }
+        ],
+        "base_price": 7813.0,
+        "tax_price": 1733.0,
+        "final_price": 9546.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Jaipur",
+                "date": "01-06-2026",
+                "departure": "11:55",
+                "arrival": "13:00",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1719"
+            },
+            {
+                "source": "Jaipur",
+                "destination": "Mumbai",
+                "date": "02-06-2026",
+                "departure": "06:00",
+                "arrival": "08:00",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI414"
+            }
+        ],
+        "base_price": 7660.0,
+        "tax_price": 1950.0,
+        "final_price": 9610.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "15:00",
+                "arrival": "17:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2380"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:35",
+                "arrival": "00:05",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 1:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1209"
+            }
+        ],
+        "base_price": 7980.0,
+        "tax_price": 1741.0,
+        "final_price": 9721.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhopal",
+                "date": "01-06-2026",
+                "departure": "10:40",
+                "arrival": "12:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1723"
+            },
+            {
+                "source": "Bhopal",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "13:40",
+                "arrival": "15:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:45:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI634"
+            }
+        ],
+        "base_price": 6906.0,
+        "tax_price": 2941.0,
+        "final_price": 9847.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhopal",
+                "date": "01-06-2026",
+                "departure": "06:30",
+                "arrival": "07:55",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1705"
+            },
+            {
+                "source": "Bhopal",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "13:40",
+                "arrival": "15:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:45:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI634"
+            }
+        ],
+        "base_price": 6906.0,
+        "tax_price": 2941.0,
+        "final_price": 9847.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "14:50",
+                "arrival": "16:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2341"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:10",
+                "arrival": "20:40",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E7018"
+            }
+        ],
+        "base_price": 7710.0,
+        "tax_price": 1959.0,
+        "final_price": 9669.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Udaipur",
+                "date": "01-06-2026",
+                "departure": "13:55",
+                "arrival": "15:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1779"
+            },
+            {
+                "source": "Udaipur",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:35",
+                "arrival": "18:15",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2596"
+            }
+        ],
+        "base_price": 7864.0,
+        "tax_price": 2066.0,
+        "final_price": 9930.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Udaipur",
+                "date": "01-06-2026",
+                "departure": "11:50",
+                "arrival": "13:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1737"
+            },
+            {
+                "source": "Udaipur",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:35",
+                "arrival": "18:15",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2596"
+            }
+        ],
+        "base_price": 7864.0,
+        "tax_price": 2066.0,
+        "final_price": 9930.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:00",
+                "arrival": "19:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6706"
+            }
+        ],
+        "base_price": 8121.0,
+        "tax_price": 1618.0,
+        "final_price": 9739.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "17:05",
+                "arrival": "18:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5073"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:35",
+                "arrival": "21:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5160"
+            }
+        ],
+        "base_price": 8007.0,
+        "tax_price": 1744.0,
+        "final_price": 9751.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hirasar",
+                "date": "01-06-2026",
+                "departure": "15:35",
+                "arrival": "17:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:40:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6983"
+            },
+            {
+                "source": "Hirasar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:35",
+                "arrival": "20:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2104"
+            }
+        ],
+        "base_price": 8007.0,
+        "tax_price": 1744.0,
+        "final_price": 9751.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Prayagraj",
+                "date": "01-06-2026",
+                "departure": "10:55",
+                "arrival": "12:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2349"
+            },
+            {
+                "source": "Prayagraj",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:05",
+                "arrival": "16:20",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6938"
+            }
+        ],
+        "base_price": 7736.0,
+        "tax_price": 2071.0,
+        "final_price": 9807.0
+    },
+    {
+        "data": [
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "23:30",
+                "arrival": "01:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6351"
+            }
+        ],
+        "base_price": 8115.0,
+        "tax_price": 1749.0,
+        "final_price": 9864.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "00:15",
+                "arrival": "01:50",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6261"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "04:00",
+                "arrival": "05:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6285"
+            }
+        ],
+        "base_price": 8115.0,
+        "tax_price": 1749.0,
+        "final_price": 9864.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "13:20",
+                "arrival": "14:30",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:10:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2113"
+            }
+        ],
+        "base_price": 8332.0,
+        "tax_price": 1970.0,
+        "final_price": 10302.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "11:40",
+                "arrival": "13:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2715"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:55",
+                "arrival": "16:35",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2504"
+            }
+        ],
+        "base_price": 8573.0,
+        "tax_price": 1996.0,
+        "final_price": 10569.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Indore",
+                "date": "01-06-2026",
+                "departure": "04:55",
+                "arrival": "06:25",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6490"
+            }
+        ],
+        "base_price": 8450.0,
+        "tax_price": 2127.0,
+        "final_price": 10577.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ahmedabad",
+                "date": "01-06-2026",
+                "departure": "00:15",
+                "arrival": "01:50",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6261"
+            },
+            {
+                "source": "Ahmedabad",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:55",
+                "arrival": "10:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:05:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2046"
+            }
+        ],
+        "base_price": 8972.0,
+        "tax_price": 2022.0,
+        "final_price": 10994.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "11:50",
+                "arrival": "13:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9757"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:10",
+                "arrival": "16:40",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2492"
+            }
+        ],
+        "base_price": 9022.0,
+        "tax_price": 2176.0,
+        "final_price": 11198.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Varanasi",
+                "date": "01-06-2026",
+                "departure": "13:35",
+                "arrival": "15:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2623"
+            },
+            {
+                "source": "Varanasi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:15",
+                "arrival": "18:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9519"
+            }
+        ],
+        "base_price": 8953.0,
+        "tax_price": 2277.0,
+        "final_price": 11230.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Raipur",
+                "date": "01-06-2026",
+                "departure": "05:55",
+                "arrival": "07:55",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:00:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6459"
+            }
+        ],
+        "base_price": 9275.0,
+        "tax_price": 1938.0,
+        "final_price": 11213.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ranchi",
+                "date": "01-06-2026",
+                "departure": "09:30",
+                "arrival": "11:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:00:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2378"
+            },
+            {
+                "source": "Ranchi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:00",
+                "arrival": "17:40",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:40:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2373"
+            }
+        ],
+        "base_price": 9719.0,
+        "tax_price": 1829.0,
+        "final_price": 11548.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Ranchi",
+                "date": "01-06-2026",
+                "departure": "07:00",
+                "arrival": "09:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:00:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1046"
+            },
+            {
+                "source": "Ranchi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:00",
+                "arrival": "17:40",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:40:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2373"
+            }
+        ],
+        "base_price": 9719.0,
+        "tax_price": 1829.0,
+        "final_price": 11548.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Nagpur",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "10:45",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6443"
+            },
+            {
+                "source": "Nagpur",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:10",
+                "arrival": "13:45",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:35:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5344"
+            }
+        ],
+        "base_price": 9457.0,
+        "tax_price": 1947.0,
+        "final_price": 11404.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Vadodara",
+                "date": "01-06-2026",
+                "departure": "18:20",
+                "arrival": "19:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5014"
+            }
+        ],
+        "base_price": 9626.0,
+        "tax_price": 1825.0,
+        "final_price": 11451.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:10",
+                "arrival": "16:35",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2441"
+            }
+        ],
+        "base_price": 10000.0,
+        "tax_price": 1732.0,
+        "final_price": 11732.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "14:45",
+                "arrival": "17:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6212"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:00",
+                "arrival": "20:20",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5039"
+            }
+        ],
+        "base_price": 9504.0,
+        "tax_price": 2160.0,
+        "final_price": 11664.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "19:45",
+                "arrival": "22:05",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6601"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "23:30",
+                "arrival": "01:00",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6363"
+            }
+        ],
+        "base_price": 9504.0,
+        "tax_price": 2160.0,
+        "final_price": 11664.0
+    },
+    {
+        "data": [
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:30",
+                "arrival": "17:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5231"
+            }
+        ],
+        "base_price": 9457.0,
+        "tax_price": 2236.0,
+        "final_price": 11693.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Indore",
+                "date": "01-06-2026",
+                "departure": "12:10",
+                "arrival": "13:45",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:35:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2515"
+            },
+            {
+                "source": "Indore",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:50",
+                "arrival": "18:20",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2592"
+            }
+        ],
+        "base_price": 9964.0,
+        "tax_price": 2171.0,
+        "final_price": 12135.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Indore",
+                "date": "01-06-2026",
+                "departure": "14:30",
+                "arrival": "16:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:35:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2592"
+            },
+            {
+                "source": "Indore",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:50",
+                "arrival": "21:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:35:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2750"
+            }
+        ],
+        "base_price": 9964.0,
+        "tax_price": 2171.0,
+        "final_price": 12135.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Jaipur",
+                "date": "01-06-2026",
+                "departure": "07:20",
+                "arrival": "08:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "0:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1767"
+            },
+            {
+                "source": "Jaipur",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:10",
+                "arrival": "12:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9717"
+            }
+        ],
+        "base_price": 10224.0,
+        "tax_price": 2079.0,
+        "final_price": 12303.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "07:00",
+                "arrival": "09:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2560"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:30",
+                "arrival": "13:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI418"
+            }
+        ],
+        "base_price": 10006.0,
+        "tax_price": 2330.0,
+        "final_price": 12336.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "05:00",
+                "arrival": "07:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1108"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:20",
+                "arrival": "19:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1241"
+            }
+        ],
+        "base_price": 10576.0,
+        "tax_price": 1871.0,
+        "final_price": 12447.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Indore",
+                "date": "01-06-2026",
+                "departure": "13:10",
+                "arrival": "14:50",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9418"
+            },
+            {
+                "source": "Indore",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "16:50",
+                "arrival": "18:20",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2592"
+            }
+        ],
+        "base_price": 10325.0,
+        "tax_price": 2189.0,
+        "final_price": 12514.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Indore",
+                "date": "01-06-2026",
+                "departure": "17:20",
+                "arrival": "18:45",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6829"
+            }
+        ],
+        "base_price": 10404.0,
+        "tax_price": 1995.0,
+        "final_price": 12399.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Lucknow",
+                "date": "01-06-2026",
+                "departure": "06:00",
+                "arrival": "07:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 3",
+                "durationtime": "1:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2499"
+            },
+            {
+                "source": "Lucknow",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:50",
+                "arrival": "11:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9752"
+            }
+        ],
+        "base_price": 10870.0,
+        "tax_price": 2268.0,
+        "final_price": 13138.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Varanasi",
+                "date": "01-06-2026",
+                "departure": "08:00",
+                "arrival": "09:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1765"
+            },
+            {
+                "source": "Varanasi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:30",
+                "arrival": "14:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI696"
+            }
+        ],
+        "base_price": 10840.0,
+        "tax_price": 2372.0,
+        "final_price": 13212.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "13:30",
+                "arrival": "15:45",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6282"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:30",
+                "arrival": "18:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "1:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5259"
+            }
+        ],
+        "base_price": 10809.0,
+        "tax_price": 2225.0,
+        "final_price": 13034.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhubaneswar",
+                "date": "01-06-2026",
+                "departure": "06:20",
+                "arrival": "08:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1057"
+            },
+            {
+                "source": "Bhubaneswar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:00",
+                "arrival": "14:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1243"
+            }
+        ],
+        "base_price": 11577.0,
+        "tax_price": 1921.0,
+        "final_price": 13498.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhubaneswar",
+                "date": "01-06-2026",
+                "departure": "06:20",
+                "arrival": "08:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:15:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1057"
+            },
+            {
+                "source": "Bhubaneswar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:25",
+                "arrival": "21:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1025"
+            }
+        ],
+        "base_price": 11577.0,
+        "tax_price": 1921.0,
+        "final_price": 13498.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "05:00",
+                "arrival": "07:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1108"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "14:15",
+                "arrival": "15:40",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:25:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1214"
+            }
+        ],
+        "base_price": 11776.0,
+        "tax_price": 1931.0,
+        "final_price": 13707.0
+    },
+    {
+        "data": [],
+        "base_price": 12276.0,
+        "tax_price": 2490.0,
+        "final_price": 14766.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Patna",
+                "date": "01-06-2026",
+                "departure": "05:45",
+                "arrival": "07:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1346"
+            },
+            {
+                "source": "Patna",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:05",
+                "arrival": "17:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2401"
+            }
+        ],
+        "base_price": 11961.0,
+        "tax_price": 1941.0,
+        "final_price": 13902.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "11:55",
+                "arrival": "14:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1068"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:20",
+                "arrival": "19:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:30:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1241"
+            }
+        ],
+        "base_price": 12076.0,
+        "tax_price": 1947.0,
+        "final_price": 14023.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Patna",
+                "date": "01-06-2026",
+                "departure": "11:15",
+                "arrival": "12:55",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:40:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1510"
+            },
+            {
+                "source": "Patna",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:05",
+                "arrival": "17:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2401"
+            }
+        ],
+        "base_price": 12261.0,
+        "tax_price": 1955.0,
+        "final_price": 14216.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Indore",
+                "date": "01-06-2026",
+                "departure": "19:40",
+                "arrival": "21:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:30:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E2169"
+            },
+            {
+                "source": "Indore",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "22:20",
+                "arrival": "23:45",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6598"
+            }
+        ],
+        "base_price": 12004.0,
+        "tax_price": 2075.0,
+        "final_price": 14079.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "16:00",
+                "arrival": "18:30",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI487"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:55",
+                "arrival": "21:15",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9592"
+            }
+        ],
+        "base_price": 11876.0,
+        "tax_price": 2529.0,
+        "final_price": 14405.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "11:55",
+                "arrival": "14:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1068"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:55",
+                "arrival": "21:15",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:20:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2390"
+            }
+        ],
+        "base_price": 12476.0,
+        "tax_price": 1967.0,
+        "final_price": 14443.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "10:25",
+                "arrival": "13:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2749"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:25",
+                "arrival": "20:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1581"
+            }
+        ],
+        "base_price": 12436.0,
+        "tax_price": 2195.0,
+        "final_price": 14631.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "21:15",
+                "arrival": "00:10",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:55:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1070"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Navi Mumbai",
+                "date": "02-06-2026",
+                "departure": "06:05",
+                "arrival": "07:45",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:40:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2914"
+            }
+        ],
+        "base_price": 12436.0,
+        "tax_price": 2195.0,
+        "final_price": 14631.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "10:25",
+                "arrival": "13:20",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX2749"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Navi Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:25",
+                "arrival": "22:10",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1360"
+            }
+        ],
+        "base_price": 12436.0,
+        "tax_price": 2195.0,
+        "final_price": 14631.0
+    },
+    {
+        "data": [],
+        "base_price": 12492.0,
+        "tax_price": 2067.0,
+        "final_price": 14559.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bhubaneswar",
+                "date": "01-06-2026",
+                "departure": "12:25",
+                "arrival": "14:45",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:20:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1059"
+            },
+            {
+                "source": "Bhubaneswar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:25",
+                "arrival": "21:00",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:35:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1025"
+            }
+        ],
+        "base_price": 13243.0,
+        "tax_price": 2005.0,
+        "final_price": 15248.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Dehra Dun",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "09:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "0:50:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5298"
+            },
+            {
+                "source": "Dehra Dun",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:35",
+                "arrival": "13:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:15:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5021"
+            }
+        ],
+        "base_price": 13055.0,
+        "tax_price": 2206.0,
+        "final_price": 15261.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Amritsar",
+                "date": "01-06-2026",
+                "departure": "10:25",
+                "arrival": "11:40",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1773"
+            },
+            {
+                "source": "Amritsar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "13:15",
+                "arrival": "16:10",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2998"
+            }
+        ],
+        "base_price": 13299.0,
+        "tax_price": 2390.0,
+        "final_price": 15689.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Amritsar",
+                "date": "01-06-2026",
+                "departure": "05:10",
+                "arrival": "06:25",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1703"
+            },
+            {
+                "source": "Amritsar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "08:30",
+                "arrival": "11:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2729"
+            }
+        ],
+        "base_price": 13299.0,
+        "tax_price": 2390.0,
+        "final_price": 15689.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "17:00",
+                "arrival": "18:00",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2601"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:15",
+                "arrival": "21:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9535"
+            }
+        ],
+        "base_price": 13515.0,
+        "tax_price": 2401.0,
+        "final_price": 15916.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "14:10",
+                "arrival": "15:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "0:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2706"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:15",
+                "arrival": "21:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9535"
+            }
+        ],
+        "base_price": 13515.0,
+        "tax_price": 2401.0,
+        "final_price": 15916.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "06:50",
+                "arrival": "07:50",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1743"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "11:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI472"
+            }
+        ],
+        "base_price": 13615.0,
+        "tax_price": 2406.0,
+        "final_price": 16021.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "17:00",
+                "arrival": "18:00",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2601"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:40",
+                "arrival": "22:30",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2784"
+            }
+        ],
+        "base_price": 13615.0,
+        "tax_price": 2406.0,
+        "final_price": 16021.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "13:30",
+                "arrival": "15:50",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2951"
+            }
+        ],
+        "base_price": 14200.0,
+        "tax_price": 1942.0,
+        "final_price": 16142.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "06:00",
+                "arrival": "08:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1793"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:55",
+                "arrival": "11:50",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2874"
+            }
+        ],
+        "base_price": 13699.0,
+        "tax_price": 2515.0,
+        "final_price": 16214.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "06:00",
+                "arrival": "08:20",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1793"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:30",
+                "arrival": "13:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI418"
+            }
+        ],
+        "base_price": 13699.0,
+        "tax_price": 2515.0,
+        "final_price": 16214.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "20:00",
+                "arrival": "22:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2807"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "23:40",
+                "arrival": "01:45",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "-1 day, 2:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2811"
+            }
+        ],
+        "base_price": 13729.0,
+        "tax_price": 2726.0,
+        "final_price": 16455.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Patna",
+                "date": "01-06-2026",
+                "departure": "10:45",
+                "arrival": "12:30",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:45:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2523"
+            },
+            {
+                "source": "Patna",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "15:05",
+                "arrival": "17:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9449"
+            }
+        ],
+        "base_price": 13019.0,
+        "tax_price": 3543.0,
+        "final_price": 16562.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Dehra Dun",
+                "date": "01-06-2026",
+                "departure": "09:20",
+                "arrival": "10:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI437"
+            },
+            {
+                "source": "Dehra Dun",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "13:15",
+                "arrival": "15:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9493"
+            }
+        ],
+        "base_price": 13748.0,
+        "tax_price": 3314.0,
+        "final_price": 17062.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "08:15",
+                "arrival": "09:10",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "0:55:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6050"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "11:10",
+                "arrival": "13:30",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:20:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E6382"
+            }
+        ],
+        "base_price": 14632.0,
+        "tax_price": 2285.0,
+        "final_price": 16917.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "16:00",
+                "arrival": "18:30",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:30:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI487"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:30",
+                "arrival": "23:10",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2506"
+            }
+        ],
+        "base_price": 14781.0,
+        "tax_price": 2674.0,
+        "final_price": 17455.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "08:30",
+                "arrival": "11:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI427"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:05",
+                "arrival": "14:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2630"
+            }
+        ],
+        "base_price": 14782.0,
+        "tax_price": 2779.0,
+        "final_price": 17561.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "07:00",
+                "arrival": "09:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2815"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:05",
+                "arrival": "14:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2630"
+            }
+        ],
+        "base_price": 14782.0,
+        "tax_price": 2779.0,
+        "final_price": 17561.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "14:10",
+                "arrival": "15:05",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "0:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2706"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:50",
+                "arrival": "20:30",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:40:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2660"
+            }
+        ],
+        "base_price": 15125.0,
+        "tax_price": 2481.0,
+        "final_price": 17606.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "06:30",
+                "arrival": "09:25",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2803"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "10:30",
+                "arrival": "12:35",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2852"
+            }
+        ],
+        "base_price": 15044.0,
+        "tax_price": 2792.0,
+        "final_price": 17836.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "08:00",
+                "arrival": "10:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2651"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "12:05",
+                "arrival": "14:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2630"
+            }
+        ],
+        "base_price": 15044.0,
+        "tax_price": 2792.0,
+        "final_price": 17836.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "12:30",
+                "arrival": "14:45",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:15:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2899"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:25",
+                "arrival": "19:25",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2447"
+            }
+        ],
+        "base_price": 15790.0,
+        "tax_price": 2619.0,
+        "final_price": 18409.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "16:00",
+                "arrival": "18:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2519"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:35",
+                "arrival": "22:30",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2876"
+            }
+        ],
+        "base_price": 15790.0,
+        "tax_price": 2619.0,
+        "final_price": 18409.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "16:30",
+                "arrival": "19:15",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:45:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2817"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "21:30",
+                "arrival": "23:35",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2642"
+            }
+        ],
+        "base_price": 15591.0,
+        "tax_price": 2819.0,
+        "final_price": 18410.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "16:30",
+                "arrival": "19:15",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:45:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2817"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:30",
+                "arrival": "22:40",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:10:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2850"
+            }
+        ],
+        "base_price": 15718.0,
+        "tax_price": 2826.0,
+        "final_price": 18544.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "15:50",
+                "arrival": "18:45",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2664"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "20:30",
+                "arrival": "22:40",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:10:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2850"
+            }
+        ],
+        "base_price": 15718.0,
+        "tax_price": 2826.0,
+        "final_price": 18544.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Goa",
+                "date": "01-06-2026",
+                "departure": "11:55",
+                "arrival": "14:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:35:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI9722"
+            },
+            {
+                "source": "Goa",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:30",
+                "arrival": "18:55",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:25:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2746"
+            }
+        ],
+        "base_price": 15939.0,
+        "tax_price": 2732.0,
+        "final_price": 18671.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "15:00",
+                "arrival": "17:55",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2819"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "19:00",
+                "arrival": "21:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:05:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2610"
+            }
+        ],
+        "base_price": 15963.0,
+        "tax_price": 2838.0,
+        "final_price": 18801.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bengaluru",
+                "date": "01-06-2026",
+                "departure": "04:30",
+                "arrival": "07:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2653"
+            },
+            {
+                "source": "Bengaluru",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "09:15",
+                "arrival": "11:15",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "2:00:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2604"
+            }
+        ],
+        "base_price": 16055.0,
+        "tax_price": 2843.0,
+        "final_price": 18898.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Chandigarh",
+                "date": "01-06-2026",
+                "departure": "14:10",
+                "arrival": "15:00",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "0:50:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5038"
+            },
+            {
+                "source": "Chandigarh",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "17:10",
+                "arrival": "19:35",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 1",
+                "durationtime": "2:25:00",
+                "airline": "IndiGo",
+                "cl": "ECONOMY",
+                "flight_no": "6E5234"
+            }
+        ],
+        "base_price": 17423.0,
+        "tax_price": 2424.0,
+        "final_price": 19847.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "02:00",
+                "arrival": "04:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2577"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "05:50",
+                "arrival": "07:45",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:55:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2872"
+            }
+        ],
+        "base_price": 18130.0,
+        "tax_price": 2736.0,
+        "final_price": 20866.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Hyderabad",
+                "date": "01-06-2026",
+                "departure": "02:00",
+                "arrival": "04:20",
+                "departure_terminal": "Terminal - 3",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2577"
+            },
+            {
+                "source": "Hyderabad",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "07:25",
+                "arrival": "09:15",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "1:50:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2626"
+            }
+        ],
+        "base_price": 18572.0,
+        "tax_price": 2758.0,
+        "final_price": 21330.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Srinagar",
+                "date": "01-06-2026",
+                "departure": "11:30",
+                "arrival": "13:05",
+                "departure_terminal": "Terminal - 2",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "1:35:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI1739"
+            },
+            {
+                "source": "Srinagar",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "13:50",
+                "arrival": "17:10",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "3:20:00",
+                "airline": "Air India",
+                "cl": "ECONOMY",
+                "flight_no": "AI2662"
+            }
+        ],
+        "base_price": 18492.0,
+        "tax_price": 2954.0,
+        "final_price": 21446.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bagdogra",
+                "date": "01-06-2026",
+                "departure": "15:25",
+                "arrival": "17:35",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:10:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1081"
+            },
+            {
+                "source": "Bagdogra",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:55",
+                "arrival": "21:55",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "3:00:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1547"
+            }
+        ],
+        "base_price": 22720.0,
+        "tax_price": 2269.0,
+        "final_price": 24989.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bagdogra",
+                "date": "01-06-2026",
+                "departure": "12:20",
+                "arrival": "14:30",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:10:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1003"
+            },
+            {
+                "source": "Bagdogra",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:55",
+                "arrival": "21:55",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "3:00:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1547"
+            }
+        ],
+        "base_price": 23120.0,
+        "tax_price": 2289.0,
+        "final_price": 25409.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bagdogra",
+                "date": "01-06-2026",
+                "departure": "06:10",
+                "arrival": "08:15",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:05:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1067"
+            },
+            {
+                "source": "Bagdogra",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:55",
+                "arrival": "21:55",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "3:00:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1547"
+            }
+        ],
+        "base_price": 23120.0,
+        "tax_price": 2289.0,
+        "final_price": 25409.0
+    },
+    {
+        "data": [
+            {
+                "source": "New Delhi",
+                "destination": "Bagdogra",
+                "date": "01-06-2026",
+                "departure": "09:00",
+                "arrival": "11:10",
+                "departure_terminal": "Terminal - 1",
+                "arrival_terminal": "no temrinal data found",
+                "durationtime": "2:10:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1076"
+            },
+            {
+                "source": "Bagdogra",
+                "destination": "Mumbai",
+                "date": "01-06-2026",
+                "departure": "18:55",
+                "arrival": "21:55",
+                "departure_terminal": "no terminal data found",
+                "arrival_terminal": "Terminal - 2",
+                "durationtime": "3:00:00",
+                "airline": "Air India Express",
+                "cl": "ECONOMY",
+                "flight_no": "IX1547"
+            }
+        ],
+        "base_price": 24934.0,
+        "tax_price": 2379.0,
+        "final_price": 27313.0
+    }
+]
