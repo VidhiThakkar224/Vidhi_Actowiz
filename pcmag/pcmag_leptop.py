@@ -41,5 +41,5 @@ for data in products:
 
 print(result)
 
-with open("pcmag_leptop_data.json","w",encoding='utf 8') as f:
+with open("C:\Python Training\pcmag\pcmag_leptop_data.json","w",encoding='utf 8') as f:
     json.dump(result, f, indent = 4)
