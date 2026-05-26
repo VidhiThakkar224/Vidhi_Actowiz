@@ -72,7 +72,7 @@ with open('Day7/Zometo.json', "r", encoding='utf-8') as f:
 
 with open('Zomato_data.json', 'w', encoding='utf-8') as f:
   json.dump(restaurant_data, f, indent=4)
-    
+
 
 
 

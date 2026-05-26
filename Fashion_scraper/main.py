@@ -1,3 +1,6 @@
+#     only - 3100 product(link)
+#   lululemon - 841
+
 from fetch import Request_Data
 from config import DEFAULT_HEADERS, MAIN_PAGE_SAVE_DIR
 from parsers.bonkers_parser import parse_product_page as bonkers_parser
