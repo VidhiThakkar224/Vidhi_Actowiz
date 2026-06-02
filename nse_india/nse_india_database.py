@@ -35,10 +35,11 @@ with open (r"C:\Python Training\nse_india\sectoral_indices_stock_data.json",'r',
     print(top_20_gainers)
     print(bottom_20_losers)
 
-try:
-    mycol.insert_many(new_data)
     top.insert_many(top_20_gainers)
     bottom.insert_many(bottom_20_losers)
+
+try:
+    mycol.insert_many(new_data)
     print("Data inserted")
 except Exception as e:
     print("Dupliced product skipped")

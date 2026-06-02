@@ -23,7 +23,6 @@ headers = {
 response = requests.get('https://www.nseindia.com/api/allIndices',headers=headers)
 
 all_data = response.json()
-
 with open(r"C:\Python Training\nse_india\all_indicies_data.json","w",encoding='utf-8') as f:
     json.dump(all_data,f,indent=4,ensure_ascii=False)
 
