@@ -30,4 +30,4 @@ APPLE_TV_PARAMS = {
   "v":"94"
 }
 
-FILE_PATH = './scraped_data/'
+FILE_PATH = 'C:\\Python Training\\apple_tv\\scraped_data\\'

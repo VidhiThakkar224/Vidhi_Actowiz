@@ -47,7 +47,7 @@ def get_item_data(is_success, content):
   if is_success:
     html_content = Selector(text=content)
     script_data = json.loads(html_content.xpath(ITEM_PATH).get())
-    with open("./scraped_data/get_item.json", 'w', encoding='utf-8') as f:
+    with open(r"C:\Python Training\apple_tv\scraped_data\get_item.json", 'w', encoding='utf-8') as f:
       json.dump(script_data, f, indent=2)
     shelves = jmespath.search('data[1].data.shelves[*]',script_data)
     # # get main page of item
