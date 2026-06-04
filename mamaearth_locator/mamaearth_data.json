@@ -1,0 +1,830 @@
+[
+    {
+        "city": "Gurgaon",
+        "location": "Ardee Mall",
+        "address": "Shop Number B-8, Ground Floor, Ardee Mall Sec-52",
+        "store_open_time": "11:00 AM - 11:00 PM",
+        "store_contactNumber": "0124-448-8102",
+        "store_email": "ggn.ardee@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Gurgaon",
+        "location": "DLF Gallaria",
+        "address": "Shop No -SG-88",
+        "store_open_time": "10:00 AM - 11:00 PM",
+        "store_contactNumber": "0124-4488127",
+        "store_email": "ggn.gallaria@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "DLF Avenue",
+        "address": "129-B,Ground Floor, District Center",
+        "store_open_time": "11:00 AM - 11:00 PM",
+        "store_contactNumber": "011-4106-4902",
+        "store_email": "del.dlfavenue@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Chandigarh",
+        "location": "Elante Mall",
+        "address": "Unit No -KS2A, Second Floor, Plot No.178-178A, Industrial & Business Park, Phase-I",
+        "store_open_time": "",
+        "store_contactNumber": "",
+        "store_email": "chd.elante@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "Paschim Vihar",
+        "address": "DDA Build UP Free Hold, Shop Bearing No-02, Ground Floor Block B-2, Local Shopping Center",
+        "store_open_time": "",
+        "store_contactNumber": "011-4106-3927",
+        "store_email": "del.paschimvihar1@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Noida",
+        "location": "DLF Mall of India",
+        "address": "Unit No - 3K7A, Second Floor",
+        "store_open_time": "11:00 AM - 12:00 AM",
+        "store_contactNumber": "",
+        "store_email": "noida.moi@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Mumbai",
+        "location": "Infiniti Mall",
+        "address": "Shop Number SF229, Second Floor, Infiniti Malad Mall, Link Road Malad, West Mumbai",
+        "store_open_time": "11:00 AM - 10:00 PM",
+        "store_contactNumber": "2246013579",
+        "store_email": "mum.infmalad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "V3S Mall",
+        "address": "Ground Floor G21, V3S East Centre Mall Plot No. 12 District Centre, Laxmi Nagar",
+        "store_open_time": "11:00 AM - 10:00 PM",
+        "store_contactNumber": "",
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Noida",
+        "location": "Gaur Mall",
+        "address": "GF- K-4, Gaur City Mall C-01B/GH-01, Sector-04, Greater Noida (West)",
+        "store_open_time": "11:00 AM - 10:00 PM",
+        "store_contactNumber": "",
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ghaziabad",
+        "location": "Shipra Mall",
+        "address": "LG -Kiosk Shipra Mall, Vaibhav Khand, Indirapuram ",
+        "store_open_time": "11:00 AM - 10:00 PM",
+        "store_contactNumber": "",
+        "store_email": "gzb.shipra@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Noida",
+        "location": "Logix Mall",
+        "address": "Ground Floor Kiosk, Logixcity Centre, Sec 21 A",
+        "store_open_time": "11:00 AM - 10:00 PM",
+        "store_contactNumber": "",
+        "store_email": "noida.logix@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Mumbai",
+        "location": "Phoenix Market City",
+        "address": "F-58, First Floor, Lal Bahadur Shastri rd Patelwadi, Kurla Kamani, Kurla West, Kurla Mumbai",
+        "store_open_time": "11:00 AM - 10:00 PM",
+        "store_contactNumber": "2268086813",
+        "store_email": "mum.pmckurla@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "Kamla Nagar",
+        "address": "Shop No -3, 15, U.B Bunglow Road, Jawahar Nagar",
+        "store_open_time": null,
+        "store_contactNumber": "011-4106-3565",
+        "store_email": "del.kamlanagar1@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ghaziabad",
+        "location": "EDM Mall",
+        "address": "Shop No. G-25, Ground Floor, EDM Mall, Plot No.1, Kaushambi",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Gurgaon",
+        "location": "Airia Mall",
+        "address": "Unit No. GF 18, Ground floor, Aria Mall, Sector 68",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "0124-5072527",
+        "store_email": "reach.a@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Phoenix Marketcity Mall, Whitefield",
+        "address": "Unit N0. F-19, First Floor, PMC Whitefield, Mahadevpura",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "blr.pmc@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Forum Neighbourhood Mall Whitefield",
+        "address": "Shop No. 21, Ground Floor, The Nexus Forum Neighbourhood Mall, Whitefield Mall",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "blr.fnm@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Vega City Mall",
+        "address": "SF K07, 2nd FLOOR ,Vega City Mall, Srinivas Industrial Estate, Bannerghatta Main Rd, Dollar Layout, Stage 2",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "blr.vega@mamaearth.in",
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Mangalore",
+        "location": "Nexus Mall Mangalore",
+        "address": "K-09, UG Floor, Fiza By Nexus Mall, Pandeshwar",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "manglore.forum@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Mysore",
+        "location": "Nexus Centre City Mysore",
+        "address": "No.8 & N-5, UG Floor, Nexus Center City Mall, Hyderali Rd, Nazarbad Mohalla",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "maysore.forum@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Hyderabad",
+        "location": "Nexus Mall Hyderabad",
+        "address": "K-01, 2nd Floor, Nexus Sujana Mall, Kukatpally Housing Board Rd, K P H B Phase 9, Kukatpally",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "hyderabad.sujana@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Coimbatore",
+        "location": "Prozone Mall Coimbatore",
+        "address": "Ground Floor, Prozone Mall, Parking Rd, Saravanampatti",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "cbt.prozone@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Cochin",
+        "location": "Oberon Mall Cochin",
+        "address": "B-18, Ground Floor, Oberon Mall, HnBypass, Edappally",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "ccn.oberonmall@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Calicut",
+        "location": "HILITE Mall Calicut",
+        "address": "Unit No.0049A, Door No : 2/1149-53, GF, Hilite Mall, Hilite City, NH 66, Near Thondayad Bypass, Poovangal, Kozhikode",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "hilite@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Rajkot",
+        "location": "Crystal City Centre",
+        "address": "Koisk, Ground Floor, Crystal Mall, Rajkot, Jyoti Nagar Main Road, Opp. Rani Tower",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "raj.crystlmall@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Pune",
+        "location": "Elpro City Square Mall",
+        "address": "Shop No-21, GF, PCMC Link Road, Chapekar Chowk Flyover, Pimpri Chinchwad",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "pune.elpro@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Gurgaon",
+        "location": "Good Earth",
+        "address": "Good Earth City Centre Mall, Unit no 80 B, Ground floor, Sec 47 & 50 Road ,Malibu Town, Gurugram -122018",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "ggn.goodearth@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Hyderabad",
+        "location": "Sarath City Capital Mall",
+        "address": "SHOP NO. 125, UG Floor, Sarath City Capital Mall, Gachibowli - Miyapur Rd, Hitec City, Kondapur",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "9000380337",
+        "store_email": "hyderabad.sarath@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Garuda Mall",
+        "address": "1st Floor, Magrath Rd, Ashok Nagar,Garuda Mall",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "8049728789",
+        "store_email": "blr.garuda@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Thiruvananthapuram",
+        "location": "Mall of Travancore",
+        "address": "03A , Ground Floor , Airport Rd, Near International Airport, Eanchakkal",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "mot.Travancore@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Gwalior",
+        "location": "DB City",
+        "address": "Shop No - G02, DB Mall, Opposite Railway Station on Khasra 520,521,524,525, Race Course Road",
+        "store_open_time": null,
+        "store_contactNumber": null,
+        "store_email": "gwlr.db@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Agra",
+        "location": "Church Road",
+        "address": "Ground Floor, Raghu Shopping Complex, Church Rd, Opposite Torrent Power House",
+        "store_open_time": null,
+        "store_contactNumber": null,
+        "store_email": "agr.churchroad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Lucknow",
+        "location": "One Awadh Mall",
+        "address": "Kiosk No -3, Ground Floor, 384, Gomti Nagar Rd, Vibhuti Khand, Gomti Nagar",
+        "store_open_time": "",
+        "store_contactNumber": "",
+        "store_email": "luk.oneawadh@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Lucknow",
+        "location": "Fun Republic Mall",
+        "address": "Lower Ground Floor, Opposite McDonald's Kiosk, NH 28, Vipin Khand, Gomti Nagar",
+        "store_open_time": null,
+        "store_contactNumber": null,
+        "store_email": "luk.funmall@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ajmer",
+        "location": "City Square Mall",
+        "address": "Ground Floor, Mall Atrium, Kiosk No 03, Near Revlon Cosmetic, Makarwali Rd, A Block, Panchsheel Nagar",
+        "store_open_time": "",
+        "store_contactNumber": null,
+        "store_email": "ajmr.citysquare@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bhopal",
+        "location": "DB City",
+        "address": "Ground Floor, DB City Mall, M.P Nagar",
+        "store_open_time": null,
+        "store_contactNumber": null,
+        "store_email": "bpl.dbmall@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bilaspur",
+        "location": "Rama Magneto Mall",
+        "address": "Ground Floor, Kiosk No. 5, Rama Megnato Mall, Deen Dayal, Upadhayey Chowk, Srikant Verma Road",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "blp.ramamangento@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ludhiana",
+        "location": "Pavillion Mall",
+        "address": "Kiosk- 4, Atrium Floor, Pavallion Mall, Fountain Chowk B-I, 1258, Kailash Cinema Road, Civil Lines",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "ldh.pavillion@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "",
+        "location": "Pacific Mall",
+        "address": "First Floor, Pacific Mall, Najafgarh Road, Tagore Garden, Tilak Nagar",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "del.pacifictg@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "",
+        "location": "Karol Bagh",
+        "address": "Shop No. 4, Ground Floor, Ajmal Khan Road, Padam Singh Road, Karol Bagh",
+        "store_open_time": null,
+        "store_contactNumber": null,
+        "store_email": "del.karolbagh@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Lucknow",
+        "location": "Crown Mall",
+        "address": "Unit No. 17, Ground Floor, Crown Mall, Plot No, 111, Faizabad Rd, Opposite BBD College, Atif Vihar",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "luk.crownmall@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "Vegas Dwarka",
+        "address": "Kiosk Second Floor SK 06,Vegas Mall, Sector 14 Road, Pocket 1, Sector 14 Dwarka",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "del.vegas@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Jaipur",
+        "location": "Pink Square Mall",
+        "address": "G-02 Ground Floor, Pink Square Mall, Plot No 1 & 2, Govind Marg, Janta Colony, Adarsh Nagar",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "0141-13146954",
+        "store_email": "jpr.pinksqr@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bareily",
+        "location": "Phoenix United Mall",
+        "address": "G-16, Phoenix United, Pilibhit Bypass Rd, Udyan Part 1, Ujjwal Phase - 1, Mahanagar Colony",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "bareily.pmc@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Jaipur",
+        "location": "Mall of Jaipur",
+        "address": "Ground Floor, Mall of Jaipur, Gandhi Path W, B Block, Vaishali Nagar",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "0141-6762090",
+        "store_email": "jpr.moj@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Kolkata",
+        "location": "Mani Square",
+        "address": "G-23A, Ground Floor, 164/1 Maniktala",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "kol.manisqr@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Haldwani",
+        "location": "Walkway Mall",
+        "address": "Kiosk No. 5, Ground Floor, Mall Atrium, Nainital Road, Bareilly Road, Near National Highway 87",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "hal.walkway@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Vaishali",
+        "location": "Mahagun Metro Mall",
+        "address": "Mahagun Metro Mall, Opposite to Levis , Plot Number VC-3, Sec-3, Vaishali, Ghaziabad, Uttar Pradesh - 201014",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "mah.gzb@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Udaipur",
+        "location": "Celebrations Mall",
+        "address": "Celebration Mall By Nexus, KKGF, NH-8, Opposite Devendra Dham, Bhuwana, Udaipur, Rajasthan - 313004",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "cel.udaipur@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Guwahati",
+        "location": "GS Road",
+        "address": "Shop No 2, Ground Floor, Road No. 72, Ward No 19, Opposite Central Mall, Christian Basti, GS road, Guwahati - 781005",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "gwht.gsroad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "Pacific D21 Mall",
+        "address": "SH/GF/03, Ground Floor, Next to Reliance Digital, Pacific Mall, Dwarka, New Delhi -110075",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "pac.dwarka@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Dehradun",
+        "location": "Pacific Mall",
+        "address": "IK1F01, Pacific Mall, Rajpur Road, Jakhan, Dehradun, Uttarakhand - 248001",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "pac.ddn@Mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Lucknow",
+        "location": "Lulu Mall",
+        "address": "H-003A, Ground Floor, Amar Shaheed Path, Golf City, Sector B Ansal API, Lucknow, Uttar Pradesh - 226030",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "luk.lulu@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Indore",
+        "location": "Phoenix Citadel",
+        "address": "Unit No. UG 25 A, Upper Ground Floor, Phoenix Citadel, MR 10 Road, Junction, Indore, Madhya Pradesh - 452016",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "indore.pmc@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Pune",
+        "location": "Phoenix Marketcity",
+        "address": "Unit No. F 70A, 1st Floor, Phoenix Road, Clover Park, Viman Nagar, Pune, Maharashtra - 411014",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "2066870013",
+        "store_email": "pmc.pune@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Kota",
+        "location": "Citi Center Mall",
+        "address": "Kiok GF -04, Unnamed Road, Indraprastha Industrial Area, Kota, Rajasthan - 324005",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "kota.cc@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Aurangabad",
+        "location": "Prozone Mall",
+        "address": "G -45, P-80, API Compound, MIDC, Chikalthana Road, N 1, Cidco, Aurangabad, Maharashtra - 431006",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "prozone.aurangabad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ghaziabad",
+        "location": "KW Delhi 6",
+        "address": "Shop No. 34, 35, Ground Floor, KW Delhi 6, Main Road, NH-58 Bypass, Raj Nagar Extension, Ghaziabad, Uttar Pradesh - 201017",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "kw6.rajnagar@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Durgapur",
+        "location": "Junction Mall",
+        "address": "Mamaearth Kiosk, Upper Ground Floor, Mall Entrance Lobby, Junction Mall, City Centre, Durgapur, West Bengal - 713216",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "junction.d@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "Green Park",
+        "address": "Shop S-38/2 in House No. S-38, Green Park (Main) Market, New Delhi -110016",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "011-41655374",
+        "store_email": "del.gp@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Nexus Shantiniketan Mall",
+        "address": "Unit No. UGF 020, Upper Ground Floor, Whitefield Main Road, Thigalapalya, Krishnarajapura",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "080-25018359",
+        "store_email": "nexus.shantiniketan@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bhilai",
+        "location": "Treasure Mall Bhilai",
+        "address": "Upper Ground Floor -UG -7, Junwani Rd, Near Apollo Hospital, Smriti Nagar",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "0788 - 3500576",
+        "store_email": "treasure.bhilai@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Siliguri",
+        "location": "Cosmos Mall",
+        "address": "Unit No -13 B, Ground Floor, Cosmos Mall, Sevoke Rd, Siliguri, West Bengal - 734001",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "3533501294",
+        "store_email": "cos.siliguri@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Surat",
+        "location": "VR Surat",
+        "address": "Ground Floor, Shop no. 2, Dumas Road, Magdalla VR Mall Surat, Gujarat - 395007",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "2616795046",
+        "store_email": "vr.surat@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Siliguri",
+        "location": "City Centre Mall",
+        "address": "C-0016, Ground Floor, City Centre Matigara, Siliguri, West Bengal - 734010",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "city.siliguri@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "RMZ Galleria Mall",
+        "address": "Unit No. UG-4, Upper Ground Floor, RMZ Galleria Mall, Police Station, SH 9, Opposite Yelahanka, Ambedkar Colony",
+        "store_open_time": "10:30 am - 9:30 pm",
+        "store_contactNumber": "",
+        "store_email": "blr.galyalahanka@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "",
+        "location": "Pacific Mall - NSP",
+        "address": "SGHF -24, Ground Floor, Pacific Mall, Netaji Subhash Place MTRS Station, DMRC Phase -3 Corridor",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "del.pacificnsp@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Lucknow",
+        "location": "Shalimar Mall",
+        "address": "RW94+MR8, Sardari Khera, Sujanpura, Alambagh",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "shalimar.lkw@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ludhiana",
+        "location": "Palm Walk",
+        "address": "GF -14, Palm Height, VPO Jaspal Banger, Southern Bypass, Ludhiana, Punjab - 142212",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "palm.lud@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Udaipur",
+        "location": "Urban Square Mall",
+        "address": "Mamaearth Kiosk, Ground Floor, Plot No. F210-223, Udyog Vihar, Riico Industrial Area, Gaurav Path, Sukher, Udaipur, Rajasthan - 301001",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "urban.s@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Jamshedpur",
+        "location": "P&M Hi-Tech City Centre Mall",
+        "address": "Unit G43, Ground Floor, City Center Mall , P&M - Hitech City Center Mall, Millennium Park, Bistupur",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "0657-2320029",
+        "store_email": "jsp.citycentre@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Chennai",
+        "location": "Nexus Vijaya Mall",
+        "address": "Mamaearth, UGK-08, Upper Ground Floor, Nexus Vijaya Mall, N.S.K Salai, Arcot Road, Vadapalani",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "nexus.chennai@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Thiruvananthapuram",
+        "location": "LuLu Mall",
+        "address": "Shop No. - D12, Ground Floor, Lulu Mall, Thiruvananthapuram, TC91/270(2), Anayara",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Hyderabad",
+        "location": "AMR Planet",
+        "address": "Shop No. 17T, Ground Floor, AMR Planet Mall, 373/1 & 373/3, Moula Ali Road, ECIL extension, Secunderabad",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "amr.hyderabad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Mantri Square Mall",
+        "address": "Shop No. - 80, First Floor, Mantri Square Mall, No.-01, Sampige Road, Malleswaram",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "mantri.mall@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Raipur",
+        "location": "Ambuja City Centre",
+        "address": "Space No.12000709, Upper Ground Floor, Celebration Plaza, Opposite Shoppers Stop, Ambuja City Center",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Hyderabad",
+        "location": "Inorbit Mall",
+        "address": "Shop No. - 58, First Floor, Inorbit Mall, Cyderabad, APIIC software layout, Mindspace, Madhapur",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "8639607504",
+        "store_email": "inorbit.hyderabad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "City Centre Mall, Rohini",
+        "address": "Ground Floor, Opp Skechers, Citi Center Mall, Plot No 1B3, Twin District Center, Sector 10, Rohini",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "New Delhi",
+        "location": "Lajpat Nagar",
+        "address": "Shop no. 16, Ground Floor, Central Market, Lajpat Nagar - 2",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Gurgaon",
+        "location": "Sapphire 83",
+        "address": "Shop Number - 44, Ground Floor, Sapphire Mall, Sector -83",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bhubaneswar",
+        "location": "Utkal Galleria Mall",
+        "address": "Shop Number GF-006, Ground Floor, Goutam Nagar, Near Kalpana Square, Opp, Odisha State Museum",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": null,
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Rourkela",
+        "location": "Forum Galleria Mall",
+        "address": "Unit No. SU-004, Ground Floor, IDCO Commercial Estate, Raghunathpali, Civil Township",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ahmedabad",
+        "location": "Palladium Mall",
+        "address": "Unit No. T9B, Third Floor, Palladium Mall, Sarkhej, Gandhinagar Hwy, Thaltej",
+        "store_open_time": "Opening Soon",
+        "store_contactNumber": null,
+        "store_email": "",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Ghaziabad",
+        "location": "IHC, Indirapuram",
+        "address": "G -239, Ground Floor, Block E at Indirapuram Habitat Centre",
+        "store_open_time": "Opening Soon",
+        "store_contactNumber": null,
+        "store_email": "ihc.gzb@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Pune",
+        "location": "Phoenix Market Mall",
+        "address": "Unit No-S-50, Second Floor, Survey number 132/23, Phoenix Market Mall, Behind Sayaji Hotel, Western Avenue I-Type, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad",
+        "store_open_time": "Opening Soon",
+        "store_contactNumber": null,
+        "store_email": "pmc.wakad@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Mumbai",
+        "location": "R City Mall",
+        "address": "Unit No G64 C, Ground Floor, R City Mall, Lal Bahadur Shastri Marg, Amrut Nagar, Ghatkopar",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "rcitymallmumbai@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Meerut",
+        "location": "Abu Lane",
+        "address": "313 B, Ground Floor, Next to Clovia Store, Abu Lane, Meerut Cantt",
+        "store_open_time": "10:30 AM - 9:30 PM",
+        "store_contactNumber": "",
+        "store_email": "abulane.meerut@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Bangalore",
+        "location": "Mall of Asia",
+        "address": "Unit no -S 3 On second Floor, Phoenix Mall of Asia, Byatarayanapura Village, Yelahanka Hobli, Yelahanka Taluk, Bellary Rd",
+        "store_open_time": "Opening Soon",
+        "store_contactNumber": "",
+        "store_email": "Mall.Asia@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Kanpur",
+        "location": "Women store, 16 / 113, The Mall",
+        "address": "Mamaearth Kiosk, OPP. VanHeusen Women store, 16 / 113, The Mall, M.G. Rd. Kanpur. 208001 (U.P.)",
+        "store_open_time": null,
+        "store_contactNumber": "",
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Hyderabad",
+        "location": "First Floor, Adjacent to Punjagutta Metro Station",
+        "address": "Shop No. L3, First Floor, Adjacent to Punjagutta Metro Station, Survey No. 1/1,1/2,1/3,3/2,6,1, Block E, Punjagautta, Khairatabad, Hyderabad - 500082",
+        "store_open_time": "",
+        "store_contactNumber": "",
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Howrah",
+        "location": "Avani Riverside Mall",
+        "address": "Shop No 06, Ground Floor, Avani Riverside Mall, 32, Jagat Banerjee Ghat Road, Howrah - 711102 ,West Bengal",
+        "store_open_time": null,
+        "store_contactNumber": "",
+        "store_email": "avanimall.kolkata@mamaearth.in",
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+        "city": "Kolkata",
+        "location": "Forum Courtyard Mall",
+        "address": "Kiosk no 4, Ground Floor, Forum Courtyard Mall, 10/3, Elgin Road, Sreepally, Bhowanipore, Kolkata, West Bengal - 700020",
+        "store_open_time": null,
+        "store_contactNumber": "",
+        "store_email": null,
+        "direction_url": "https://www.google.com/maps/dir/None/@22.9980939,72.5019839,14z/data=!3m1!4b1!4m2!4m1!3e0?entry=ttu&g_ep=EgoyMDI2MDYwMS4wIKXMDSoASAFQAw%3D%3D"
+    }
+]
