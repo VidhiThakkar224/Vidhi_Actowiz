@@ -7,8 +7,8 @@
             "market": "IN"
         },
         "telemetryInfo": {
-            "initialCv": "zWRnj3grnKC1qAUW3VVVoE.0",
-            "serverImpressionGuid": "9d00308c-dba2-43b4-8cea-26b9621e7a27",
+            "initialCv": "MdEjKgVDN/mOUFU8XsL16L.0",
+            "serverImpressionGuid": "7980f768-147d-4ba3-9643-2d498274813c",
             "oneCollectorTelemetryInstrumentationToken": "eeffcfbdd15f4d4290fe248ef5bbe385-9c56e872-71a7-4be4-ba11-cf6f686ef435-7598"
         },
         "requestInfo": {
@@ -183,7 +183,7 @@
                 "usetizenh264mainsdphack": true,
                 "usev2msaxblauth": true
             },
-            "lastFetchedMS": 1780920405774
+            "lastFetchedMS": 1780923512781
         },
         "overrideFeatureGates": {},
         "experimentationInfo": {
@@ -315,7 +315,7 @@
                     "enablecanton"
                 ],
                 "version": "53546798",
-                "impressionGuid": "596A5B3DD4044BC6BE59299622C3840C",
+                "impressionGuid": "3B000B76AF2446B79C333739E4C9D0CD",
                 "treatments": {
                     "AutoFullscreenPersist": true,
                     "disablexgp": true,
@@ -475,7 +475,7 @@
                 },
                 "assignmentContext": "hidebetareferences:31395698;enabledisconnectwarning:30729880;enablemiconmacsafari:30804691;enablereactcheckout:30663213;usetizenh264mainsdphack:30498039;xbena971:30730610;enablemediaplayonweb:30539134;phase1-treatment-1j01h157:30673863;usev2msaxblauth:30659822;enablexboxcomnewui:30585185;storagemanage:31056592;enablebuynowxboxuiexp:30592700;showmousekeyboardsetting:30994188;enableminipdprefreshexp:30595184;2b92h304:30595300;enablewishlistgifting:30607379;enablegifting:30601921;hig28617:30626030;enabletakhighcontrastmode:30672477;e83fc576yesall:30713568;b378j985:31246453;on:30669315;enableauthv2ew:30700116;aapaddfriend-true:30779946;enablemultiupsellbutton:30698337;d79a6806:31083651;hcch3996:31083650;enablefriendlinksharing:30726838;enablepdpgallery:30949120;aapscreentime-true:30779929;aapcontent-true:31068678;aapmultiplayer-true:30779912;meta-social-enabled:31418567;stream-client-guide-true:31083646;true-enablesearchpagev2:31007603;webenablesenerchia:30837132;0cb04779:31028815;a5a5h940:30909742;ghe76434:30826840;orbitwebon:30842645;enableusbguidance:30853296;07ej9999:30859599;1h39h944:30915911;enableclientauthv3t:30954240;skipredirectcounter:30964683;xboxcomreport_t:30966257;enablecontrollerstatusv2:31021588;enablenewsearchgeneraltabt:30992923;friendsandfollowerstreat:31176057;h6cfb523:31033925;enableuserlevelmkb:31170587;e463f378:31063914;enableabsolutemouse:31170606;enableooberedirectstowww:31302427;enablesettingsredirects:31072654;enabletakcontrolresizing:31252329;disablexgp:31097228;enablemfprivsettingstreat:31136676;enablenvidiatrue1:31098785;enableoverridedevsettings:31131801;garrredeemxboxcom:31132546;enablepidlstandardforms:31134795;enablecomingsoonupsell:31134948;enablemaunaloa:31135846;4ch49264:31136900;f7hcd700:31141341;xesurveyson:31196128;ccg1i588:31186914;enableultupsell:31186045;b4if8750:31167676;855c1381:31248414;enablenqiandstats:31511470;gc97h866:31186889;f1cb9541:31186031;806h2947:31189489;crcenabled:31302321;4973j605:31264412;enablegarrisoninlinesubs:31248798;enableconsoles_remoteplay:31303795;29aca441:31229596;gicf9873:31247480;enableoffersandcredits:31373109;9a159968:31242739;cib8h695:31252968;cgms_treat:31287716;g46j6928:31289581;fixsigninsagas:31282633;enablegarrisonredeemnor:31339112;3cihe914:31301411;legaltextt:31301961;enabledynamicqssupport:31312857;enableanontelemetry:31389238;feedbacksdkenabled:31365734;163fe958:31379245;9bccd650:31395844;enablegcs:31446313;frsbootstrapt:31383886;cc6hf526:31395843;4ee5i963:31395834;7ff8i903:31395831;enableinternalcookielist:31383208;8i5h1357:31447625;enable-launchpad-updates-true:31427212;enablenakatomiuxboxcom:31395714;enable-it:31395917;h1877262:31395895;enableqssupportforloadcart:31397819;web_usr_enabled_latam:31450280;enablehhverifiedtreatment:31424186;5f44e595avs:31457886;controller-vibration-enabled:31428797;enablexgpp:31500966;enableaionageverificationtreatment:31490291;enableaionageverificationactionstreatment:31496315;enable_tulip_edgewater:31499515;enable_card_badge_edgewater:31499555;tuliptag_xboxcom:31499562;t1treatment:31509720;enablepcgp:31514595;enablegen8deprecationwave1treatment:31520760;enablegen8deprecationwave2treatment:31526556;usegearsinsiderapi:31527554;enablecanton:31526815"
             },
-            "lastFetchedMS": 1780920405774
+            "lastFetchedMS": 1780923512781
         }
     },
     "pageRequestMetadata": {
@@ -792,10 +792,10 @@
                                 "productId": "9NNFWBPJ1JWN"
                             },
                             {
-                                "productId": "9P5JZ9KRVHWC"
+                                "productId": "9PFRTPRQ569Q"
                             },
                             {
-                                "productId": "9PFRTPRQ569Q"
+                                "productId": "9P5JZ9KRVHWC"
                             },
                             {
                                 "productId": "9N4PVQQ541CC"
@@ -804,10 +804,10 @@
                                 "productId": "9P57S817781J"
                             },
                             {
-                                "productId": "9N4H1C86FPB0"
+                                "productId": "9P9X48VMZZNH"
                             },
                             {
-                                "productId": "9P9X48VMZZNH"
+                                "productId": "9N4H1C86FPB0"
                             },
                             {
                                 "productId": "9NR6CZSLBV7X"
@@ -833,7 +833,7 @@
                         ],
                         "totalItems": 460
                     },
-                    "lastFetchedMS": 1780920406988
+                    "lastFetchedMS": 1780923513425
                 },
                 "INCLUDEDINSUBSCRIPTIONS_9PK087LNGJC5": {
                     "type": 2,
@@ -854,7 +854,7 @@
                         ],
                         "totalItems": 4
                     },
-                    "lastFetchedMS": 1780920406988
+                    "lastFetchedMS": 1780923513425
                 }
             },
             "channelMetadata": {
@@ -866,7 +866,7 @@
                         "channelName": "People also like",
                         "channelLocalizationKey": "MoreLike"
                     },
-                    "lastFetchedMS": 1780920406988
+                    "lastFetchedMS": 1780923513425
                 },
                 "INCLUDEDINSUBSCRIPTIONS_9PK087LNGJC5": {
                     "type": 2,
@@ -875,7 +875,7 @@
                         "isFilterable": false,
                         "channelLocalizationKey": "IncludedInSubscriptions"
                     },
-                    "lastFetchedMS": 1780920406988
+                    "lastFetchedMS": 1780923513425
                 }
             }
         },
@@ -1726,46 +1726,6 @@
                         }
                     }
                 },
-                "9P5JZ9KRVHWC": {
-                    "0010": {
-                        "9VQ7PGMW21S3": {
-                            "actions": [
-                                "Details",
-                                "Fulfill",
-                                "Purchase",
-                                "Browse",
-                                "Curate",
-                                "Redeem"
-                            ],
-                            "availabilityId": "9VQ7PGMW21S3",
-                            "endDateUtc": "12/30/9998 00:00:00",
-                            "productId": "9P5JZ9KRVHWC",
-                            "price": {
-                                "skuId": "0010",
-                                "availabilityId": "9VQ7PGMW21S3",
-                                "discountPercentage": 0,
-                                "eligibilityInfo": {
-                                    "eligibility": "None",
-                                    "type": "Unknown"
-                                },
-                                "availabilityActions": [
-                                    "Details",
-                                    "Fulfill",
-                                    "Purchase",
-                                    "Browse",
-                                    "Curate",
-                                    "Redeem"
-                                ],
-                                "endDateUtc": "12/30/9998 00:00:00",
-                                "hasXPriceOffer": false,
-                                "listPrice": 249,
-                                "msrp": 249,
-                                "currency": "INR"
-                            },
-                            "skuId": "0010"
-                        }
-                    }
-                },
                 "9PFRTPRQ569Q": {
                     "0010": {
                         "B31C235DNPBQ": {
@@ -1800,6 +1760,46 @@
                                 "hasXPriceOffer": false,
                                 "listPrice": 1624,
                                 "msrp": 1624,
+                                "currency": "INR"
+                            },
+                            "skuId": "0010"
+                        }
+                    }
+                },
+                "9P5JZ9KRVHWC": {
+                    "0010": {
+                        "9VQ7PGMW21S3": {
+                            "actions": [
+                                "Details",
+                                "Fulfill",
+                                "Purchase",
+                                "Browse",
+                                "Curate",
+                                "Redeem"
+                            ],
+                            "availabilityId": "9VQ7PGMW21S3",
+                            "endDateUtc": "12/30/9998 00:00:00",
+                            "productId": "9P5JZ9KRVHWC",
+                            "price": {
+                                "skuId": "0010",
+                                "availabilityId": "9VQ7PGMW21S3",
+                                "discountPercentage": 0,
+                                "eligibilityInfo": {
+                                    "eligibility": "None",
+                                    "type": "Unknown"
+                                },
+                                "availabilityActions": [
+                                    "Details",
+                                    "Fulfill",
+                                    "Purchase",
+                                    "Browse",
+                                    "Curate",
+                                    "Redeem"
+                                ],
+                                "endDateUtc": "12/30/9998 00:00:00",
+                                "hasXPriceOffer": false,
+                                "listPrice": 249,
+                                "msrp": 249,
                                 "currency": "INR"
                             },
                             "skuId": "0010"
@@ -1884,46 +1884,6 @@
                         }
                     }
                 },
-                "9N4H1C86FPB0": {
-                    "0010": {
-                        "B0WF1N3XTG4D": {
-                            "actions": [
-                                "Details",
-                                "Fulfill",
-                                "Purchase",
-                                "Browse",
-                                "Curate",
-                                "Redeem"
-                            ],
-                            "availabilityId": "B0WF1N3XTG4D",
-                            "endDateUtc": "12/30/9998 00:00:00",
-                            "productId": "9N4H1C86FPB0",
-                            "price": {
-                                "skuId": "0010",
-                                "availabilityId": "B0WF1N3XTG4D",
-                                "discountPercentage": 0,
-                                "eligibilityInfo": {
-                                    "eligibility": "None",
-                                    "type": "Unknown"
-                                },
-                                "availabilityActions": [
-                                    "Details",
-                                    "Fulfill",
-                                    "Purchase",
-                                    "Browse",
-                                    "Curate",
-                                    "Redeem"
-                                ],
-                                "endDateUtc": "12/30/9998 00:00:00",
-                                "hasXPriceOffer": false,
-                                "listPrice": 1349,
-                                "msrp": 1349,
-                                "currency": "INR"
-                            },
-                            "skuId": "0010"
-                        }
-                    }
-                },
                 "9P9X48VMZZNH": {
                     "0010": {
                         "9PB2G335MFJK": {
@@ -1958,6 +1918,46 @@
                                 "hasXPriceOffer": false,
                                 "listPrice": 219,
                                 "msrp": 219,
+                                "currency": "INR"
+                            },
+                            "skuId": "0010"
+                        }
+                    }
+                },
+                "9N4H1C86FPB0": {
+                    "0010": {
+                        "B0WF1N3XTG4D": {
+                            "actions": [
+                                "Details",
+                                "Fulfill",
+                                "Purchase",
+                                "Browse",
+                                "Curate",
+                                "Redeem"
+                            ],
+                            "availabilityId": "B0WF1N3XTG4D",
+                            "endDateUtc": "12/30/9998 00:00:00",
+                            "productId": "9N4H1C86FPB0",
+                            "price": {
+                                "skuId": "0010",
+                                "availabilityId": "B0WF1N3XTG4D",
+                                "discountPercentage": 0,
+                                "eligibilityInfo": {
+                                    "eligibility": "None",
+                                    "type": "Unknown"
+                                },
+                                "availabilityActions": [
+                                    "Details",
+                                    "Fulfill",
+                                    "Purchase",
+                                    "Browse",
+                                    "Curate",
+                                    "Redeem"
+                                ],
+                                "endDateUtc": "12/30/9998 00:00:00",
+                                "hasXPriceOffer": false,
+                                "listPrice": 1349,
+                                "msrp": 1349,
                                 "currency": "INR"
                             },
                             "skuId": "0010"
@@ -4676,9 +4676,9 @@
                 },
                 "9NNFWBPJ1JWN": {
                     "availableOn": [
-                        "PC",
                         "XboxOne",
                         "XboxSeriesX",
+                        "PC",
                         "XCloud"
                     ],
                     "averageRating": 5,
@@ -4796,161 +4796,6 @@
                     "xCloudPropertiesV2": {
                         "xCloudId": "DARKESTDUNGEONII",
                         "xboxTitleId": 1940736818,
-                        "programs": [
-                            "GPULTIMATE",
-                            "CALLISTO",
-                            "DIA",
-                            "EUROPA",
-                            "TRITON"
-                        ],
-                        "supportedInputTypes": [
-                            "Controller"
-                        ],
-                        "supportsTouch": false
-                    },
-                    "isAvailableOnGarrison": true,
-                    "hasUbisoftCrossEntitlementProduct": false
-                },
-                "9P5JZ9KRVHWC": {
-                    "availableOn": [
-                        "XboxOne",
-                        "XboxSeriesX",
-                        "PC",
-                        "XCloud",
-                        "Handheld"
-                    ],
-                    "averageRating": 0,
-                    "badges": [],
-                    "categories": [
-                        "Strategy",
-                        "Shooter",
-                        "Action & adventure"
-                    ],
-                    "contentRating": {
-                        "boardName": "IARC",
-                        "description": "For ages 7 and up",
-                        "disclaimers": [],
-                        "descriptors": [
-                            "Mild Violence"
-                        ],
-                        "imageUri": "https://store-images.s-microsoft.com/image/global.7864.image.cd804323-d887-4223-94e3-120957098af5.f2721c1e-57ef-45d5-a4a9-e57c83870b75",
-                        "imageLinkUri": "https://www.globalratings.com/",
-                        "interactiveDescriptions": [],
-                        "rating": "7+",
-                        "ratingAge": 7,
-                        "ratingDescription": "For ages 7 and up"
-                    },
-                    "description": "Welcome to Kill the Brickman, a turn-based rogue-like brick breaker inspired by retro arcade madness.\n\nBuild your own bullet-blasting loadouts by combining relics, clip layouts, and bizarre bullets that explode, corrode, and multiply. Every run is a new experiment. Every build is a puzzle. Every bullet is a brick-busting tool to bring home the bank.\n\nShoot your way through chapters, face off against powerful bosses, and uncover synergies that turn your humble pee shooter into a galaxy-defying hand cannon. With hundreds of relics and a variety of build options, the depth here goes way deeper than just aim and fire.\n\nMAIN MISSION\nChoose a chapter, choose your weapon, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nLOADOUT\nPick your shooter, each with a unique set of starting abilities, and pay attention to Clips in the Shop that grant even more abilities to your bullets; which yes, also have abilities. It's just ability on top of ability here. Create a build and bolster your power with Relics, which yes, also have abilities.\n\nLOCATIONS\nChoose a chapter, select your sidearm, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nBULLET POINTS (GET IT???)\n- Accept extra missions if you think you can handle the pressure, big payoffs await the brave\n- Remember to blow your bank at the Shop, re-roll if your needs aren't met!\n- Keep a keen eye on Facilities when they appear, they may just work in your favor",
-                    "developerName": "Doonutsaur",
-                    "hasAddOns": false,
-                    "hhVerified": {
-                        "deviceEvaluation": 3
-                    },
-                    "images": {
-                        "boxArt": {
-                            "url": "https://store-images.s-microsoft.com/image/apps.7794.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.339698e7-958a-457f-856b-212638188900",
-                            "width": 2160,
-                            "height": 2160
-                        },
-                        "poster": {
-                            "url": "https://store-images.s-microsoft.com/image/apps.43236.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.f17f02ff-9458-486c-b38a-bc97ab0c6a45",
-                            "width": 1440,
-                            "height": 2160
-                        },
-                        "superHeroArt": {
-                            "url": "https://store-images.s-microsoft.com/image/apps.55954.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.18c899d8-dbfd-4c0f-83f6-2e2879c95726",
-                            "width": 3840,
-                            "height": 2160
-                        }
-                    },
-                    "includedWithPassesProductIds": [],
-                    "maxInstallSize": 0,
-                    "optimalSkuId": "0010",
-                    "preferredSkuId": "0010",
-                    "productFamily": "Games",
-                    "productId": "9P5JZ9KRVHWC",
-                    "productKind": "Game",
-                    "publisherName": "poncle",
-                    "ratingCount": 0,
-                    "releaseDate": "2025-08-21T13:00:00.0000000Z",
-                    "shortDescription": "A brick breaking, turn-based rogue-like bullet-builder - Blast bricks to break the bank.",
-                    "showSupportedLanguageDisclaimer": false,
-                    "specificPrices": {
-                        "purchaseable": [
-                            {
-                                "skuId": "0010",
-                                "availabilityId": "9VQ7PGMW21S3",
-                                "discountPercentage": 0,
-                                "eligibilityInfo": {
-                                    "eligibility": "None",
-                                    "type": "Unknown"
-                                },
-                                "availabilityActions": [
-                                    "Details",
-                                    "Fulfill",
-                                    "Purchase",
-                                    "Browse",
-                                    "Curate",
-                                    "Redeem"
-                                ],
-                                "endDateUtc": "12/30/9998 00:00:00",
-                                "hasXPriceOffer": false,
-                                "listPrice": 249,
-                                "msrp": 249,
-                                "currency": "INR"
-                            }
-                        ],
-                        "giftable": [
-                            {
-                                "skuId": "0010",
-                                "availabilityId": "9W5XX7T624FS",
-                                "discountPercentage": 0,
-                                "eligibilityInfo": {
-                                    "eligibility": "None",
-                                    "type": "Unknown"
-                                },
-                                "availabilityActions": [
-                                    "Details",
-                                    "Fulfill",
-                                    "Browse",
-                                    "Curate",
-                                    "Gift"
-                                ],
-                                "endDateUtc": "12/30/9998 00:00:00",
-                                "hasXPriceOffer": false,
-                                "listPrice": 249,
-                                "msrp": 249,
-                                "currency": "INR"
-                            }
-                        ],
-                        "totalPurchaseablePricesCount": 1
-                    },
-                    "title": "Kill The Brickman",
-                    "videos": [],
-                    "cmsVideos": [
-                        {
-                            "url": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/23d56ad2-df56-4c43-846a-85ff5ecb697f-AVS.m3u8?packagedStreaming=true",
-                            "purpose": "HeroTrailer",
-                            "height": 1080,
-                            "width": 1920,
-                            "title": "Kill the Brickman - Launch Trailer",
-                            "previewImage": {
-                                "url": "https://store-images.s-microsoft.com/image/apps.35882.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.074ff1de-c9b9-4f4f-8502-ad411e7c6f13",
-                                "width": 1920,
-                                "height": 1080,
-                                "caption": "Kill the Brickman - Launch Trailer"
-                            }
-                        }
-                    ],
-                    "xCloudProperties": {
-                        "xCloudId": "KILLTHEBRICKMAN",
-                        "xboxTitleId": 1817077599,
-                        "supportsTouch": false
-                    },
-                    "passMetadataByPassProductId": {},
-                    "xCloudPropertiesV2": {
-                        "xCloudId": "KILLTHEBRICKMAN",
-                        "xboxTitleId": 1817077599,
                         "programs": [
                             "GPULTIMATE",
                             "CALLISTO",
@@ -5168,6 +5013,161 @@
                         "supportedInputTypes": [
                             "Controller",
                             "MKB"
+                        ],
+                        "supportsTouch": false
+                    },
+                    "isAvailableOnGarrison": true,
+                    "hasUbisoftCrossEntitlementProduct": false
+                },
+                "9P5JZ9KRVHWC": {
+                    "availableOn": [
+                        "XboxOne",
+                        "XboxSeriesX",
+                        "PC",
+                        "XCloud",
+                        "Handheld"
+                    ],
+                    "averageRating": 0,
+                    "badges": [],
+                    "categories": [
+                        "Strategy",
+                        "Shooter",
+                        "Action & adventure"
+                    ],
+                    "contentRating": {
+                        "boardName": "IARC",
+                        "description": "For ages 7 and up",
+                        "disclaimers": [],
+                        "descriptors": [
+                            "Mild Violence"
+                        ],
+                        "imageUri": "https://store-images.s-microsoft.com/image/global.7864.image.cd804323-d887-4223-94e3-120957098af5.f2721c1e-57ef-45d5-a4a9-e57c83870b75",
+                        "imageLinkUri": "https://www.globalratings.com/",
+                        "interactiveDescriptions": [],
+                        "rating": "7+",
+                        "ratingAge": 7,
+                        "ratingDescription": "For ages 7 and up"
+                    },
+                    "description": "Welcome to Kill the Brickman, a turn-based rogue-like brick breaker inspired by retro arcade madness.\n\nBuild your own bullet-blasting loadouts by combining relics, clip layouts, and bizarre bullets that explode, corrode, and multiply. Every run is a new experiment. Every build is a puzzle. Every bullet is a brick-busting tool to bring home the bank.\n\nShoot your way through chapters, face off against powerful bosses, and uncover synergies that turn your humble pee shooter into a galaxy-defying hand cannon. With hundreds of relics and a variety of build options, the depth here goes way deeper than just aim and fire.\n\nMAIN MISSION\nChoose a chapter, choose your weapon, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nLOADOUT\nPick your shooter, each with a unique set of starting abilities, and pay attention to Clips in the Shop that grant even more abilities to your bullets; which yes, also have abilities. It's just ability on top of ability here. Create a build and bolster your power with Relics, which yes, also have abilities.\n\nLOCATIONS\nChoose a chapter, select your sidearm, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nBULLET POINTS (GET IT???)\n- Accept extra missions if you think you can handle the pressure, big payoffs await the brave\n- Remember to blow your bank at the Shop, re-roll if your needs aren't met!\n- Keep a keen eye on Facilities when they appear, they may just work in your favor",
+                    "developerName": "Doonutsaur",
+                    "hasAddOns": false,
+                    "hhVerified": {
+                        "deviceEvaluation": 3
+                    },
+                    "images": {
+                        "boxArt": {
+                            "url": "https://store-images.s-microsoft.com/image/apps.7794.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.339698e7-958a-457f-856b-212638188900",
+                            "width": 2160,
+                            "height": 2160
+                        },
+                        "poster": {
+                            "url": "https://store-images.s-microsoft.com/image/apps.43236.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.f17f02ff-9458-486c-b38a-bc97ab0c6a45",
+                            "width": 1440,
+                            "height": 2160
+                        },
+                        "superHeroArt": {
+                            "url": "https://store-images.s-microsoft.com/image/apps.55954.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.18c899d8-dbfd-4c0f-83f6-2e2879c95726",
+                            "width": 3840,
+                            "height": 2160
+                        }
+                    },
+                    "includedWithPassesProductIds": [],
+                    "maxInstallSize": 0,
+                    "optimalSkuId": "0010",
+                    "preferredSkuId": "0010",
+                    "productFamily": "Games",
+                    "productId": "9P5JZ9KRVHWC",
+                    "productKind": "Game",
+                    "publisherName": "poncle",
+                    "ratingCount": 0,
+                    "releaseDate": "2025-08-21T13:00:00.0000000Z",
+                    "shortDescription": "A brick breaking, turn-based rogue-like bullet-builder - Blast bricks to break the bank.",
+                    "showSupportedLanguageDisclaimer": false,
+                    "specificPrices": {
+                        "purchaseable": [
+                            {
+                                "skuId": "0010",
+                                "availabilityId": "9VQ7PGMW21S3",
+                                "discountPercentage": 0,
+                                "eligibilityInfo": {
+                                    "eligibility": "None",
+                                    "type": "Unknown"
+                                },
+                                "availabilityActions": [
+                                    "Details",
+                                    "Fulfill",
+                                    "Purchase",
+                                    "Browse",
+                                    "Curate",
+                                    "Redeem"
+                                ],
+                                "endDateUtc": "12/30/9998 00:00:00",
+                                "hasXPriceOffer": false,
+                                "listPrice": 249,
+                                "msrp": 249,
+                                "currency": "INR"
+                            }
+                        ],
+                        "giftable": [
+                            {
+                                "skuId": "0010",
+                                "availabilityId": "9W5XX7T624FS",
+                                "discountPercentage": 0,
+                                "eligibilityInfo": {
+                                    "eligibility": "None",
+                                    "type": "Unknown"
+                                },
+                                "availabilityActions": [
+                                    "Details",
+                                    "Fulfill",
+                                    "Browse",
+                                    "Curate",
+                                    "Gift"
+                                ],
+                                "endDateUtc": "12/30/9998 00:00:00",
+                                "hasXPriceOffer": false,
+                                "listPrice": 249,
+                                "msrp": 249,
+                                "currency": "INR"
+                            }
+                        ],
+                        "totalPurchaseablePricesCount": 1
+                    },
+                    "title": "Kill The Brickman",
+                    "videos": [],
+                    "cmsVideos": [
+                        {
+                            "url": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/23d56ad2-df56-4c43-846a-85ff5ecb697f-AVS.m3u8?packagedStreaming=true",
+                            "purpose": "HeroTrailer",
+                            "height": 1080,
+                            "width": 1920,
+                            "title": "Kill the Brickman - Launch Trailer",
+                            "previewImage": {
+                                "url": "https://store-images.s-microsoft.com/image/apps.35882.14568167730648150.f1e82914-b3aa-4be9-87b3-0f9987bddf17.074ff1de-c9b9-4f4f-8502-ad411e7c6f13",
+                                "width": 1920,
+                                "height": 1080,
+                                "caption": "Kill the Brickman - Launch Trailer"
+                            }
+                        }
+                    ],
+                    "xCloudProperties": {
+                        "xCloudId": "KILLTHEBRICKMAN",
+                        "xboxTitleId": 1817077599,
+                        "supportsTouch": false
+                    },
+                    "passMetadataByPassProductId": {},
+                    "xCloudPropertiesV2": {
+                        "xCloudId": "KILLTHEBRICKMAN",
+                        "xboxTitleId": 1817077599,
+                        "programs": [
+                            "GPULTIMATE",
+                            "CALLISTO",
+                            "DIA",
+                            "EUROPA",
+                            "TRITON"
+                        ],
+                        "supportedInputTypes": [
+                            "Controller"
                         ],
                         "supportsTouch": false
                     },
@@ -5428,132 +5428,6 @@
                     "isAvailableOnGarrison": true,
                     "hasUbisoftCrossEntitlementProduct": false
                 },
-                "9N4H1C86FPB0": {
-                    "availableOn": [
-                        "XboxSeriesX"
-                    ],
-                    "averageRating": 0,
-                    "badges": [],
-                    "categories": [
-                        "Role playing"
-                    ],
-                    "contentRating": {
-                        "boardName": "IARC",
-                        "description": "For ages 12 and up",
-                        "disclaimers": [],
-                        "descriptors": [
-                            "Moderate Violence",
-                            "Horror"
-                        ],
-                        "imageUri": "https://store-images.s-microsoft.com/image/global.32925.image.f2c0ad38-c096-4e05-a76f-5c72d9258eaa.ecc5c21f-6a74-416a-98c1-99967316380b",
-                        "imageLinkUri": "https://www.globalratings.com/",
-                        "interactiveDescriptions": [],
-                        "rating": "12+",
-                        "ratingAge": 12,
-                        "ratingDescription": "For ages 12 and up"
-                    },
-                    "description": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. Embark on the journey of each of the four heroes, unravel a web of intrigue, and protect the beautiful world of Belosvet. \n\nMEET THE HEROES\nIn Deathless, you’ll play as four different heroes, each with their own playstyle:\n• Varvara the Fair - a cunning and clever treasure hunter who excels at manipulating enemy positions on the battlefield.\n• Vasilisa the Wise - a powerful elemental sorceress who can summon and dismiss Nursemaids at will to assist her in combat.\n• Dobrynya Nikitich - the famous hero, equipped with high health and solid defense, making him a master of defensive combat.\n• Alyosha - a warrior from Kitezh. He always carries a sword forged from unique star-steel and the spellbane, a mysterious enchanted wand.\n\nEXPERIMENT IN EVERY RUN\nHundreds of card combinations alongside relics provide endless opportunities for creativity - find the most powerful combos to defeat all the bosses and save Belosvet.\n\nCHOOSE YOUR PATH\nAfter each battle, you’ll decide where to go next. A swamp with a weak enemy or a clearing with a serious foe? The harder the path, the more valuable the reward.\nEach run will offer its own paths.\n\nDISCOVER THE STORY\nComplete each hero’s quest chain to learn more about the world and the magical creatures that inhabit it.",
-                    "hasAddOns": false,
-                    "images": {
-                        "boxArt": {
-                            "url": "https://store-images.s-microsoft.com/image/apps.46557.13983099870088159.2ab25535-7099-4588-bf23-f7e37269a45f.cc0acb41-4275-4634-8521-f59c6cc17914",
-                            "width": 2160,
-                            "height": 2160
-                        },
-                        "poster": {
-                            "url": "https://store-images.s-microsoft.com/image/apps.26405.13983099870088159.2ab25535-7099-4588-bf23-f7e37269a45f.bbbe92d7-e375-4860-87fd-83da567d5e09",
-                            "width": 1440,
-                            "height": 2160
-                        },
-                        "superHeroArt": {
-                            "url": "https://store-images.s-microsoft.com/image/apps.11928.13983099870088159.2ab25535-7099-4588-bf23-f7e37269a45f.e7827fba-23c7-445a-a832-3a3f58faad46",
-                            "width": 3840,
-                            "height": 2160
-                        }
-                    },
-                    "includedWithPassesProductIds": [],
-                    "maxInstallSize": 0,
-                    "optimalSkuId": "0010",
-                    "preferredSkuId": "0010",
-                    "productFamily": "Games",
-                    "productId": "9N4H1C86FPB0",
-                    "productKind": "Game",
-                    "publisherName": "Fulqrum Publishing Ltd.",
-                    "ratingCount": 0,
-                    "releaseDate": "2025-10-16T08:00:00.0000000Z",
-                    "shortDescription": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. No two journeys will ever be the same with endless Path. Crush the Evil and save the world!",
-                    "showSupportedLanguageDisclaimer": false,
-                    "specificPrices": {
-                        "purchaseable": [
-                            {
-                                "skuId": "0010",
-                                "availabilityId": "B0WF1N3XTG4D",
-                                "discountPercentage": 0,
-                                "eligibilityInfo": {
-                                    "eligibility": "None",
-                                    "type": "Unknown"
-                                },
-                                "availabilityActions": [
-                                    "Details",
-                                    "Fulfill",
-                                    "Purchase",
-                                    "Browse",
-                                    "Curate",
-                                    "Redeem"
-                                ],
-                                "endDateUtc": "12/30/9998 00:00:00",
-                                "hasXPriceOffer": false,
-                                "listPrice": 1349,
-                                "msrp": 1349,
-                                "currency": "INR"
-                            }
-                        ],
-                        "giftable": [
-                            {
-                                "skuId": "0010",
-                                "availabilityId": "9T08WV87WWQD",
-                                "discountPercentage": 0,
-                                "eligibilityInfo": {
-                                    "eligibility": "None",
-                                    "type": "Unknown"
-                                },
-                                "availabilityActions": [
-                                    "Details",
-                                    "Fulfill",
-                                    "Browse",
-                                    "Curate",
-                                    "Gift"
-                                ],
-                                "endDateUtc": "12/30/9998 00:00:00",
-                                "hasXPriceOffer": false,
-                                "listPrice": 1349,
-                                "msrp": 1349,
-                                "currency": "INR"
-                            }
-                        ],
-                        "totalPurchaseablePricesCount": 1
-                    },
-                    "title": "Deathless. The Hero Quest",
-                    "videos": [],
-                    "cmsVideos": [
-                        {
-                            "url": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/72448e54-abc9-48e6-adae-2e4df2719e7e-AVS.m3u8?packagedStreaming=true",
-                            "purpose": "HeroTrailer",
-                            "height": 1080,
-                            "width": 1920,
-                            "title": "Deathless - Launch trailer",
-                            "previewImage": {
-                                "url": "https://store-images.s-microsoft.com/image/apps.45630.13983099870088159.044b7bea-9572-4dec-931a-5de21f364a4b.01c8ad3a-7c2b-4104-844f-32cbf076d15a",
-                                "width": 1920,
-                                "height": 1080,
-                                "caption": "Deathless - Launch trailer"
-                            }
-                        }
-                    ],
-                    "passMetadataByPassProductId": {},
-                    "isAvailableOnGarrison": false,
-                    "hasUbisoftCrossEntitlementProduct": false
-                },
                 "9P9X48VMZZNH": {
                     "availableOn": [
                         "PC",
@@ -5705,6 +5579,132 @@
                         "supportsTouch": false
                     },
                     "isAvailableOnGarrison": true,
+                    "hasUbisoftCrossEntitlementProduct": false
+                },
+                "9N4H1C86FPB0": {
+                    "availableOn": [
+                        "XboxSeriesX"
+                    ],
+                    "averageRating": 0,
+                    "badges": [],
+                    "categories": [
+                        "Role playing"
+                    ],
+                    "contentRating": {
+                        "boardName": "IARC",
+                        "description": "For ages 12 and up",
+                        "disclaimers": [],
+                        "descriptors": [
+                            "Moderate Violence",
+                            "Horror"
+                        ],
+                        "imageUri": "https://store-images.s-microsoft.com/image/global.32925.image.f2c0ad38-c096-4e05-a76f-5c72d9258eaa.ecc5c21f-6a74-416a-98c1-99967316380b",
+                        "imageLinkUri": "https://www.globalratings.com/",
+                        "interactiveDescriptions": [],
+                        "rating": "12+",
+                        "ratingAge": 12,
+                        "ratingDescription": "For ages 12 and up"
+                    },
+                    "description": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. Embark on the journey of each of the four heroes, unravel a web of intrigue, and protect the beautiful world of Belosvet. \n\nMEET THE HEROES\nIn Deathless, you’ll play as four different heroes, each with their own playstyle:\n• Varvara the Fair - a cunning and clever treasure hunter who excels at manipulating enemy positions on the battlefield.\n• Vasilisa the Wise - a powerful elemental sorceress who can summon and dismiss Nursemaids at will to assist her in combat.\n• Dobrynya Nikitich - the famous hero, equipped with high health and solid defense, making him a master of defensive combat.\n• Alyosha - a warrior from Kitezh. He always carries a sword forged from unique star-steel and the spellbane, a mysterious enchanted wand.\n\nEXPERIMENT IN EVERY RUN\nHundreds of card combinations alongside relics provide endless opportunities for creativity - find the most powerful combos to defeat all the bosses and save Belosvet.\n\nCHOOSE YOUR PATH\nAfter each battle, you’ll decide where to go next. A swamp with a weak enemy or a clearing with a serious foe? The harder the path, the more valuable the reward.\nEach run will offer its own paths.\n\nDISCOVER THE STORY\nComplete each hero’s quest chain to learn more about the world and the magical creatures that inhabit it.",
+                    "hasAddOns": false,
+                    "images": {
+                        "boxArt": {
+                            "url": "https://store-images.s-microsoft.com/image/apps.46557.13983099870088159.2ab25535-7099-4588-bf23-f7e37269a45f.cc0acb41-4275-4634-8521-f59c6cc17914",
+                            "width": 2160,
+                            "height": 2160
+                        },
+                        "poster": {
+                            "url": "https://store-images.s-microsoft.com/image/apps.26405.13983099870088159.2ab25535-7099-4588-bf23-f7e37269a45f.bbbe92d7-e375-4860-87fd-83da567d5e09",
+                            "width": 1440,
+                            "height": 2160
+                        },
+                        "superHeroArt": {
+                            "url": "https://store-images.s-microsoft.com/image/apps.11928.13983099870088159.2ab25535-7099-4588-bf23-f7e37269a45f.e7827fba-23c7-445a-a832-3a3f58faad46",
+                            "width": 3840,
+                            "height": 2160
+                        }
+                    },
+                    "includedWithPassesProductIds": [],
+                    "maxInstallSize": 0,
+                    "optimalSkuId": "0010",
+                    "preferredSkuId": "0010",
+                    "productFamily": "Games",
+                    "productId": "9N4H1C86FPB0",
+                    "productKind": "Game",
+                    "publisherName": "Fulqrum Publishing Ltd.",
+                    "ratingCount": 0,
+                    "releaseDate": "2025-10-16T08:00:00.0000000Z",
+                    "shortDescription": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. No two journeys will ever be the same with endless Path. Crush the Evil and save the world!",
+                    "showSupportedLanguageDisclaimer": false,
+                    "specificPrices": {
+                        "purchaseable": [
+                            {
+                                "skuId": "0010",
+                                "availabilityId": "B0WF1N3XTG4D",
+                                "discountPercentage": 0,
+                                "eligibilityInfo": {
+                                    "eligibility": "None",
+                                    "type": "Unknown"
+                                },
+                                "availabilityActions": [
+                                    "Details",
+                                    "Fulfill",
+                                    "Purchase",
+                                    "Browse",
+                                    "Curate",
+                                    "Redeem"
+                                ],
+                                "endDateUtc": "12/30/9998 00:00:00",
+                                "hasXPriceOffer": false,
+                                "listPrice": 1349,
+                                "msrp": 1349,
+                                "currency": "INR"
+                            }
+                        ],
+                        "giftable": [
+                            {
+                                "skuId": "0010",
+                                "availabilityId": "9T08WV87WWQD",
+                                "discountPercentage": 0,
+                                "eligibilityInfo": {
+                                    "eligibility": "None",
+                                    "type": "Unknown"
+                                },
+                                "availabilityActions": [
+                                    "Details",
+                                    "Fulfill",
+                                    "Browse",
+                                    "Curate",
+                                    "Gift"
+                                ],
+                                "endDateUtc": "12/30/9998 00:00:00",
+                                "hasXPriceOffer": false,
+                                "listPrice": 1349,
+                                "msrp": 1349,
+                                "currency": "INR"
+                            }
+                        ],
+                        "totalPurchaseablePricesCount": 1
+                    },
+                    "title": "Deathless. The Hero Quest",
+                    "videos": [],
+                    "cmsVideos": [
+                        {
+                            "url": "https://cdn.trailers.xboxservices.com/trailers/00000000-0000-0000-0000-000000000000/is/content/microsoftassets/72448e54-abc9-48e6-adae-2e4df2719e7e-AVS.m3u8?packagedStreaming=true",
+                            "purpose": "HeroTrailer",
+                            "height": 1080,
+                            "width": 1920,
+                            "title": "Deathless - Launch trailer",
+                            "previewImage": {
+                                "url": "https://store-images.s-microsoft.com/image/apps.45630.13983099870088159.044b7bea-9572-4dec-931a-5de21f364a4b.01c8ad3a-7c2b-4104-844f-32cbf076d15a",
+                                "width": 1920,
+                                "height": 1080,
+                                "caption": "Deathless - Launch trailer"
+                            }
+                        }
+                    ],
+                    "passMetadataByPassProductId": {},
+                    "isAvailableOnGarrison": false,
                     "hasUbisoftCrossEntitlementProduct": false
                 },
                 "9NR6CZSLBV7X": {
@@ -6953,9 +6953,9 @@
                 },
                 "CFQ7TTC0P85B": {
                     "availableOn": [
+                        "PC",
                         "XboxOne",
-                        "XboxSeriesX",
-                        "PC"
+                        "XboxSeriesX"
                     ],
                     "averageRating": 0,
                     "badges": [],
@@ -7026,9 +7026,9 @@
                 },
                 "CFQ7TTC0KHS0": {
                     "availableOn": [
+                        "PC",
                         "XboxOne",
-                        "XboxSeriesX",
-                        "PC"
+                        "XboxSeriesX"
                     ],
                     "averageRating": 0,
                     "badges": [],
@@ -7434,30 +7434,6 @@
                         "isUbisoftConsoleCrossEntitlement": false
                     }
                 },
-                "9P5JZ9KRVHWC": {
-                    "0010": {
-                        "isGamesWithGoldSku": false,
-                        "isPreorder": false,
-                        "optimalAvailabilityId": "9VQ7PGMW21S3",
-                        "preferredAvailabilityId": "9VQ7PGMW21S3",
-                        "productId": "9P5JZ9KRVHWC",
-                        "skuDescription": "Welcome to Kill the Brickman, a turn-based rogue-like brick breaker inspired by retro arcade madness.\n\nBuild your own bullet-blasting loadouts by combining relics, clip layouts, and bizarre bullets that explode, corrode, and multiply. Every run is a new experiment. Every build is a puzzle. Every bullet is a brick-busting tool to bring home the bank.\n\nShoot your way through chapters, face off against powerful bosses, and uncover synergies that turn your humble pee shooter into a galaxy-defying hand cannon. With hundreds of relics and a variety of build options, the depth here goes way deeper than just aim and fire.\n\nMAIN MISSION\nChoose a chapter, choose your weapon, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nLOADOUT\nPick your shooter, each with a unique set of starting abilities, and pay attention to Clips in the Shop that grant even more abilities to your bullets; which yes, also have abilities. It's just ability on top of ability here. Create a build and bolster your power with Relics, which yes, also have abilities.\n\nLOCATIONS\nChoose a chapter, select your sidearm, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nBULLET POINTS (GET IT???)\n- Accept extra missions if you think you can handle the pressure, big payoffs await the brave\n- Remember to blow your bank at the Shop, re-roll if your needs aren't met!\n- Keep a keen eye on Facilities when they appear, they may just work in your favor",
-                        "skuId": "0010",
-                        "skuImages": {},
-                        "skuTitle": "Kill The Brickman",
-                        "isUbisoftConsoleCrossEntitlement": false
-                    },
-                    "0011": {
-                        "isGamesWithGoldSku": false,
-                        "isPreorder": false,
-                        "productId": "9P5JZ9KRVHWC",
-                        "skuDescription": "Welcome to Kill the Brickman, a turn-based rogue-like brick breaker inspired by retro arcade madness.\n\nBuild your own bullet-blasting loadouts by combining relics, clip layouts, and bizarre bullets that explode, corrode, and multiply. Every run is a new experiment. Every build is a puzzle. Every bullet is a brick-busting tool to bring home the bank.\n\nShoot your way through chapters, face off against powerful bosses, and uncover synergies that turn your humble pee shooter into a galaxy-defying hand cannon. With hundreds of relics and a variety of build options, the depth here goes way deeper than just aim and fire.\n\nMAIN MISSION\nChoose a chapter, choose your weapon, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nLOADOUT\nPick your shooter, each with a unique set of starting abilities, and pay attention to Clips in the Shop that grant even more abilities to your bullets; which yes, also have abilities. It's just ability on top of ability here. Create a build and bolster your power with Relics, which yes, also have abilities.\n\nLOCATIONS\nChoose a chapter, select your sidearm, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nBULLET POINTS (GET IT???)\n- Accept extra missions if you think you can handle the pressure, big payoffs await the brave\n- Remember to blow your bank at the Shop, re-roll if your needs aren't met!\n- Keep a keen eye on Facilities when they appear, they may just work in your favor",
-                        "skuId": "0011",
-                        "skuImages": {},
-                        "skuTitle": "Kill The Brickman",
-                        "isUbisoftConsoleCrossEntitlement": false
-                    }
-                },
                 "9PFRTPRQ569Q": {
                     "0010": {
                         "isGamesWithGoldSku": false,
@@ -7479,6 +7455,30 @@
                         "skuId": "0011",
                         "skuImages": {},
                         "skuTitle": "Blue Prince",
+                        "isUbisoftConsoleCrossEntitlement": false
+                    }
+                },
+                "9P5JZ9KRVHWC": {
+                    "0010": {
+                        "isGamesWithGoldSku": false,
+                        "isPreorder": false,
+                        "optimalAvailabilityId": "9VQ7PGMW21S3",
+                        "preferredAvailabilityId": "9VQ7PGMW21S3",
+                        "productId": "9P5JZ9KRVHWC",
+                        "skuDescription": "Welcome to Kill the Brickman, a turn-based rogue-like brick breaker inspired by retro arcade madness.\n\nBuild your own bullet-blasting loadouts by combining relics, clip layouts, and bizarre bullets that explode, corrode, and multiply. Every run is a new experiment. Every build is a puzzle. Every bullet is a brick-busting tool to bring home the bank.\n\nShoot your way through chapters, face off against powerful bosses, and uncover synergies that turn your humble pee shooter into a galaxy-defying hand cannon. With hundreds of relics and a variety of build options, the depth here goes way deeper than just aim and fire.\n\nMAIN MISSION\nChoose a chapter, choose your weapon, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nLOADOUT\nPick your shooter, each with a unique set of starting abilities, and pay attention to Clips in the Shop that grant even more abilities to your bullets; which yes, also have abilities. It's just ability on top of ability here. Create a build and bolster your power with Relics, which yes, also have abilities.\n\nLOCATIONS\nChoose a chapter, select your sidearm, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nBULLET POINTS (GET IT???)\n- Accept extra missions if you think you can handle the pressure, big payoffs await the brave\n- Remember to blow your bank at the Shop, re-roll if your needs aren't met!\n- Keep a keen eye on Facilities when they appear, they may just work in your favor",
+                        "skuId": "0010",
+                        "skuImages": {},
+                        "skuTitle": "Kill The Brickman",
+                        "isUbisoftConsoleCrossEntitlement": false
+                    },
+                    "0011": {
+                        "isGamesWithGoldSku": false,
+                        "isPreorder": false,
+                        "productId": "9P5JZ9KRVHWC",
+                        "skuDescription": "Welcome to Kill the Brickman, a turn-based rogue-like brick breaker inspired by retro arcade madness.\n\nBuild your own bullet-blasting loadouts by combining relics, clip layouts, and bizarre bullets that explode, corrode, and multiply. Every run is a new experiment. Every build is a puzzle. Every bullet is a brick-busting tool to bring home the bank.\n\nShoot your way through chapters, face off against powerful bosses, and uncover synergies that turn your humble pee shooter into a galaxy-defying hand cannon. With hundreds of relics and a variety of build options, the depth here goes way deeper than just aim and fire.\n\nMAIN MISSION\nChoose a chapter, choose your weapon, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nLOADOUT\nPick your shooter, each with a unique set of starting abilities, and pay attention to Clips in the Shop that grant even more abilities to your bullets; which yes, also have abilities. It's just ability on top of ability here. Create a build and bolster your power with Relics, which yes, also have abilities.\n\nLOCATIONS\nChoose a chapter, select your sidearm, grab an extra mission from the intergalactic bounty board if you're feeling brave enough, and fire your way to victory. Victory isn't easily earned however, so make sure you build and stack correctly to walk away with the cash.\n\nBULLET POINTS (GET IT???)\n- Accept extra missions if you think you can handle the pressure, big payoffs await the brave\n- Remember to blow your bank at the Shop, re-roll if your needs aren't met!\n- Keep a keen eye on Facilities when they appear, they may just work in your favor",
+                        "skuId": "0011",
+                        "skuImages": {},
+                        "skuTitle": "Kill The Brickman",
                         "isUbisoftConsoleCrossEntitlement": false
                     }
                 },
@@ -7520,30 +7520,6 @@
                         "isUbisoftConsoleCrossEntitlement": false
                     }
                 },
-                "9N4H1C86FPB0": {
-                    "0010": {
-                        "isGamesWithGoldSku": false,
-                        "isPreorder": false,
-                        "optimalAvailabilityId": "B0WF1N3XTG4D",
-                        "preferredAvailabilityId": "B0WF1N3XTG4D",
-                        "productId": "9N4H1C86FPB0",
-                        "skuDescription": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. Embark on the journey of each of the four heroes, unravel a web of intrigue, and protect the beautiful world of Belosvet. \n\nMEET THE HEROES\nIn Deathless, you’ll play as four different heroes, each with their own playstyle:\n• Varvara the Fair - a cunning and clever treasure hunter who excels at manipulating enemy positions on the battlefield.\n• Vasilisa the Wise - a powerful elemental sorceress who can summon and dismiss Nursemaids at will to assist her in combat.\n• Dobrynya Nikitich - the famous hero, equipped with high health and solid defense, making him a master of defensive combat.\n• Alyosha - a warrior from Kitezh. He always carries a sword forged from unique star-steel and the spellbane, a mysterious enchanted wand.\n\nEXPERIMENT IN EVERY RUN\nHundreds of card combinations alongside relics provide endless opportunities for creativity - find the most powerful combos to defeat all the bosses and save Belosvet.\n\nCHOOSE YOUR PATH\nAfter each battle, you’ll decide where to go next. A swamp with a weak enemy or a clearing with a serious foe? The harder the path, the more valuable the reward.\nEach run will offer its own paths.\n\nDISCOVER THE STORY\nComplete each hero’s quest chain to learn more about the world and the magical creatures that inhabit it.",
-                        "skuId": "0010",
-                        "skuImages": {},
-                        "skuTitle": "Deathless. The Hero Quest",
-                        "isUbisoftConsoleCrossEntitlement": false
-                    },
-                    "0011": {
-                        "isGamesWithGoldSku": false,
-                        "isPreorder": false,
-                        "productId": "9N4H1C86FPB0",
-                        "skuDescription": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. Embark on the journey of each of the four heroes, unravel a web of intrigue, and protect the beautiful world of Belosvet. \n\nMEET THE HEROES\nIn Deathless, you’ll play as four different heroes, each with their own playstyle:\n• Varvara the Fair - a cunning and clever treasure hunter who excels at manipulating enemy positions on the battlefield.\n• Vasilisa the Wise - a powerful elemental sorceress who can summon and dismiss Nursemaids at will to assist her in combat.\n• Dobrynya Nikitich - the famous hero, equipped with high health and solid defense, making him a master of defensive combat.\n• Alyosha - a warrior from Kitezh. He always carries a sword forged from unique star-steel and the spellbane, a mysterious enchanted wand.\n\nEXPERIMENT IN EVERY RUN\nHundreds of card combinations alongside relics provide endless opportunities for creativity - find the most powerful combos to defeat all the bosses and save Belosvet.\n\nCHOOSE YOUR PATH\nAfter each battle, you’ll decide where to go next. A swamp with a weak enemy or a clearing with a serious foe? The harder the path, the more valuable the reward.\nEach run will offer its own paths.\n\nDISCOVER THE STORY\nComplete each hero’s quest chain to learn more about the world and the magical creatures that inhabit it.",
-                        "skuId": "0011",
-                        "skuImages": {},
-                        "skuTitle": "Deathless. The Hero Quest",
-                        "isUbisoftConsoleCrossEntitlement": false
-                    }
-                },
                 "9P9X48VMZZNH": {
                     "0010": {
                         "isGamesWithGoldSku": false,
@@ -7565,6 +7541,30 @@
                         "skuId": "0011",
                         "skuImages": {},
                         "skuTitle": "Carnival Survivors The Parade",
+                        "isUbisoftConsoleCrossEntitlement": false
+                    }
+                },
+                "9N4H1C86FPB0": {
+                    "0010": {
+                        "isGamesWithGoldSku": false,
+                        "isPreorder": false,
+                        "optimalAvailabilityId": "B0WF1N3XTG4D",
+                        "preferredAvailabilityId": "B0WF1N3XTG4D",
+                        "productId": "9N4H1C86FPB0",
+                        "skuDescription": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. Embark on the journey of each of the four heroes, unravel a web of intrigue, and protect the beautiful world of Belosvet. \n\nMEET THE HEROES\nIn Deathless, you’ll play as four different heroes, each with their own playstyle:\n• Varvara the Fair - a cunning and clever treasure hunter who excels at manipulating enemy positions on the battlefield.\n• Vasilisa the Wise - a powerful elemental sorceress who can summon and dismiss Nursemaids at will to assist her in combat.\n• Dobrynya Nikitich - the famous hero, equipped with high health and solid defense, making him a master of defensive combat.\n• Alyosha - a warrior from Kitezh. He always carries a sword forged from unique star-steel and the spellbane, a mysterious enchanted wand.\n\nEXPERIMENT IN EVERY RUN\nHundreds of card combinations alongside relics provide endless opportunities for creativity - find the most powerful combos to defeat all the bosses and save Belosvet.\n\nCHOOSE YOUR PATH\nAfter each battle, you’ll decide where to go next. A swamp with a weak enemy or a clearing with a serious foe? The harder the path, the more valuable the reward.\nEach run will offer its own paths.\n\nDISCOVER THE STORY\nComplete each hero’s quest chain to learn more about the world and the magical creatures that inhabit it.",
+                        "skuId": "0010",
+                        "skuImages": {},
+                        "skuTitle": "Deathless. The Hero Quest",
+                        "isUbisoftConsoleCrossEntitlement": false
+                    },
+                    "0011": {
+                        "isGamesWithGoldSku": false,
+                        "isPreorder": false,
+                        "productId": "9N4H1C86FPB0",
+                        "skuDescription": "In Deathless, elements of a collectible card game, roguelike, and turn-based strategy combine seamlessly. Build a unique deck of cards, discover unusual relics, and defeat legendary bosses. Embark on the journey of each of the four heroes, unravel a web of intrigue, and protect the beautiful world of Belosvet. \n\nMEET THE HEROES\nIn Deathless, you’ll play as four different heroes, each with their own playstyle:\n• Varvara the Fair - a cunning and clever treasure hunter who excels at manipulating enemy positions on the battlefield.\n• Vasilisa the Wise - a powerful elemental sorceress who can summon and dismiss Nursemaids at will to assist her in combat.\n• Dobrynya Nikitich - the famous hero, equipped with high health and solid defense, making him a master of defensive combat.\n• Alyosha - a warrior from Kitezh. He always carries a sword forged from unique star-steel and the spellbane, a mysterious enchanted wand.\n\nEXPERIMENT IN EVERY RUN\nHundreds of card combinations alongside relics provide endless opportunities for creativity - find the most powerful combos to defeat all the bosses and save Belosvet.\n\nCHOOSE YOUR PATH\nAfter each battle, you’ll decide where to go next. A swamp with a weak enemy or a clearing with a serious foe? The harder the path, the more valuable the reward.\nEach run will offer its own paths.\n\nDISCOVER THE STORY\nComplete each hero’s quest chain to learn more about the world and the magical creatures that inhabit it.",
+                        "skuId": "0011",
+                        "skuImages": {},
+                        "skuTitle": "Deathless. The Hero Quest",
                         "isUbisoftConsoleCrossEntitlement": false
                     }
                 },

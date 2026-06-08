@@ -151,5 +151,5 @@ for item in data:
     print(url)
     process(url)
 
-with open("latest.json", "w", encoding="utf-8") as f:
+with open("C:\\Python Training\\Xbox_games\\latest.json", "w", encoding="utf-8") as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
