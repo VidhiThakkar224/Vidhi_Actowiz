@@ -1,5 +1,5 @@
 from curl_cffi import requests
-from lxml import etree
+from lxml import etree,html
 from rich import print
 import pymongo
 import gzip
@@ -97,24 +97,38 @@ my_db = myclient["only_db"]
 
 collection = my_db["product_urls"]
 collection.delete_many({})
-collection.insert_many([{"product_url": u} for u in product_url])
+collection.insert_many([{"product_url": u,"product_images":[]} for u in product_url])
 print("Data Inserted")
 
 os.makedirs("pages", exist_ok=True)
 
-start = int(sys.argv[1])
-end = int(sys.argv[2])
+# start = int(sys.argv[1])
+# end = int(sys.argv[2])
 
-print(f"Processing URLs from {start} to {end}")
+# print(f"Processing URLs from {start} to {end}")
 
-for i, url in enumerate(product_url[start:end], start=start):
+for i, url in enumerate(product_url):
     try:
         resp = requests.get(url, cookies=cookies, headers=headers, impersonate="chrome120", timeout=30)
         
         filename = f"pages/product_{i+1}.html.gz"
         with gzip.open(filename, "wt",encoding='utf-8') as f:
             f.write(resp.text)
-        
+
+            tree = html.fromstring(resp.text)
+            img_urls = tree.xpath('//img/@src | //img/@data-src')
+
+            slug = url.rstrip("/").split("/")[-1]
+            slug_id = slug.split("-")[0]
+
+            img_urls = [img for img in img_urls if f"{slug_id}_g" in img]
+            img_urls = list(dict.fromkeys(img_urls))
+
+            collection.update_one(
+                {"product_url": url},
+                {"$set": {"product_images": img_urls}}
+            )
+
         print(f"[{i+1}/{len(product_url)}] Saved: {filename}")
 
     except Exception as e:
