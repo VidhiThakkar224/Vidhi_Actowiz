@@ -1,12 +1,13 @@
 import os
 
 total_urls = 4145
-parts = 30
+parts = 10
 
 chunk_size = (total_urls + parts - 1) // parts
 
 python_path = r"c:\Python Training\.venv\Scripts\python.exe"
 script_path = r"c:\Python Training\only\only_all_product.py"
+# script_path = r"c:\Python Training\only\all_image_dowload.py"
 
 for i in range(parts):
 
