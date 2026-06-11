@@ -8,11 +8,11 @@ app=FastAPI()
 
 client=MongoClient("mongodb://localhost:27017")
 
-db=client["Dell_leptop"]
-collection=db["leptop"]
+db=client["dell_database"]
+collection=db["laptops"]
 
-new_db=client["dell_new_db"]
-new_collection=new_db["products"]
+new_db=client["new_dell_database"]
+new_collection=new_db["laptops"]
 
 class Product(BaseModel):
     category_url:str
@@ -31,18 +31,14 @@ def get_product(product_url:str):
 @app.post("/products/import")
 def import_products():
 
-    with open("C:\Python Training\Dell\dell_scraped_data.json", "r", encoding="utf-8") as f:
+    with open("C:\python practice\dell_scrap\dell_scraped_data.json", "r", encoding="utf-8") as f:
         products = json.load(f)
 
     if not products:
         return {"error": "No products found in JSON file"}
 
-    new_collection.delete_many(products)
-
-    for p in products:
-        Product = Product(**p)
-        new_collection.insert_one(products.dict())
+    result = new_collection.insert_many(products)
 
     return {
-        "message": f"{len(products)} products imported successfully"
+        "message": f"{len(result.inserted_ids)} products imported successfully"
     }
